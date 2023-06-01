@@ -25,9 +25,9 @@
 | -----: | ------: | -------: | :-----------------------------------------------------------------------------------------------------: | ---------------------: |
 |     MC |         |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | Beam mock native token |
 |    WMC |     tbd |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |        Mock Wrapped MC |
-|  WAVAX |     tbd |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |      Mock Wrapped AVAX |
-|   WETH |     tbd |       18 |           ![Ethereum logo](https://assets.coingecko.com/coins/images/279/small/ethereum.png)            |     Mock Wrapped Ether |
-|   USDC |     tbd |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |              Mock USDC |
+|   AVAX |     tbd |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |      Mock Bridged AVAX |
+|    ETH |     tbd |       18 |           ![Ethereum logo](https://assets.coingecko.com/coins/images/279/small/ethereum.png)            |     Mock Bridged Ether |
+|   USDC |     tbd |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |      Mock Bridged USDC |
 
 ### Fuji Subnet Contracts
 
@@ -43,7 +43,7 @@
 
 - Run an [Avalanche node](https://docs.avax.network/nodes/build/set-up-node-with-installer)
 - Install [Avalanche CLI](https://docs.avax.network/subnets/install-avalanche-cli) on it
-- Import the subnet genesis file into Avalanche CLI
-  - Fuji: `avalanche subnet import subnets/beam-test/export.json`
-- Add the subnet setup to your node with Avalanche CLI
+- [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
+  - Fuji: `avalanche subnet import ./subnets/beam-test/export.json`
+- [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
   - Fuji: `avalanche subnet join beam-test`
