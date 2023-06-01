@@ -1,0 +1,20 @@
+{
+  "Name": "beam-test",
+  "VM": "Subnet-EVM",
+  "VMVersion": "v0.5.1",
+  "RPCVersion": 26,
+  "Subnet": "beam",
+  "TokenName": "MC",
+  "ChainID": "",
+  "Version": "1.4.0",
+  "Networks": {
+    "Fuji": {
+      "SubnetID": "ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW",
+      "BlockchainID": "y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t",
+      "RPCVersion": 26
+    }
+  },
+  "ElasticSubnet": null,
+  "ImportedFromAPM": false,
+  "ImportedVMID": ""
+}
