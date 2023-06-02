@@ -1,1 +1,21 @@
-[]
+{
+  "name": "Beam Fuji Token List",
+  "logoURI": "",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "keywords": ["avalanche", "fuji", "beam"],
+  "timestamp": "2023-06-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 13337,
+      "address": "0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700",
+      "decimals": 18,
+      "name": "Wrapped Merit Circle",
+      "symbol": "WMC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
   "vmName": "EVM",
   "subnetExplorerUriId": "",
   "explorerUrl": "",
-  "rpcUrl": "",
+  "rpcUrl": "https://rpc.connectednft.art:9650/ext/bc/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/rpc",
   "wsUrl": "",
   "isTestnet": true,
   "networkToken": {
@@ -19,7 +19,8 @@
     "logoUri": ""
   },
   "utilityAddresses": {
-    "multicall": ""
+    "multicall": "0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E",
+    "weth": "0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700"
   },
   "pricingProviders": {
     "coingecko": {

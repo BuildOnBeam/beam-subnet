@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "address": "0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E",
+    "name": "Multicall 3",
+    "description": "Multicall 3"
+  },
+  {
+    "address": "0x680638eB73F5d8a1207f38CC3eF7BAE9281d3F32",
+    "name": "Multicall 2",
+    "description": "Multicall 2"
+  },
+  {
+    "address": "0x4661e0d785b2eE35B9a101B684303F1a0daf4cc5",
+    "name": "Multicall 1",
+    "description": "Multicall 1"
+  },
+  {
+    "address": "0x91FE6E298Ee000cAb57c6b71fbBC5D834Bc81ef1",
+    "name": "Uniswap v2 Router",
+    "description": "Uniswap v2 Router"
+  },
+  {
+    "address": "0xfABa62a3B12f7c29F21881F5ed4c56cb6d45E4fb",
+    "name": "Uniswap v2 Factory",
+    "description": "Uniswap v2 Factory"
+  },
+  {
+    "address": "0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700",
+    "name": "Wrapped Merit Circle",
+    "symbol": "WMC",
+    "description": "Mock wrapped native token",
+    "contractType": "ERC-20",
+    "decimals": 18,
+    "assetType": "Fixed Cap",
+    "logoUrl": "https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png"
+  }
+]
