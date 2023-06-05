@@ -25,9 +25,9 @@
 | -----: | -----------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ---------------------: |
 |     MC |                                            |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | Beam mock native token |
 |    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |        Mock Wrapped MC |
-|   AVAX |                                        tbd |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |      Mock Bridged AVAX |
-|    ETH |                                        tbd |       18 |           ![Ethereum logo](https://assets.coingecko.com/coins/images/279/small/ethereum.png)            |     Mock Bridged Ether |
-|   USDC |                                        tbd |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |      Mock Bridged USDC |
+|   AVAX | 0x008518e76FAD03f592Bbb7E394C762d5FD54cb97 |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |      Mock Bridged AVAX |
+|    ETH | 0xA2a41769a58cFf5dF4304CFdd4894f881C0f32E8 |       18 |           ![Ethereum logo](https://assets.coingecko.com/coins/images/279/small/ethereum.png)            |     Mock Bridged Ether |
+|   USDC | 0xa0023A23bE994CcD8400476790915e6128b3D474 |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |      Mock Bridged USDC |
 
 ### Fuji Subnet Contracts
 
