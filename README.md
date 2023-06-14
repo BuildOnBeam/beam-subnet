@@ -1,6 +1,7 @@
 # Beam Subnet
 
 ## Fuji Testnet
+[Subnet Overview](https://subnets-test.avax.network/subnets/ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW)
 
 ### Fuji Subnet Info
 
@@ -15,7 +16,7 @@
 | Blockchain ID    | y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t |
 | Eth Chain ID     |                                             13337 |
 | RPC URL          |                                               tbd |
-| Explorer URL     |                                               tbd |
+| Explorer URL     |            https://subnets-test.avax.network/beam |
 | Description      |                                  Beam Fuji Subnet |
 | Site             |                                               tbd |
 
