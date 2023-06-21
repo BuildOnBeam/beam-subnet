@@ -40,6 +40,18 @@
 | Uniswap v2 factory | 0xfABa62a3B12f7c29F21881F5ed4c56cb6d45E4fb |             |
 |  Uniswap v2 router | 0x91FE6E298Ee000cAb57c6b71fbBC5D834Bc81ef1 |             |
 
+### Fuji Subnet Thirdweb Contracts
+
+|                Contract |                                    Address |                       Description |
+| ----------------------: | -----------------------------------------: | --------------------------------: |
+|       Trusted Forwarder | 0xe518da278288337FdE7B9b8cCb1217c40B759580 |                               GSN |
+|              TWRegistry | 0x238fC67A71DE52832Ed38cdef6aaD8Cea57cd4b6 |          Register implementations |
+|               TWFactory | 0xa9eA7C2af311b361f86d435BFC0e8FE2EB310b56 |                    Deploy proxies |
+| Multiwrap Impelentation | 0x5F46D40231c0FfAFf3DB63265C2ea3e6Ec4f19B8 |                        Wrap logic |
+|      Pack Impelentation | 0x42A186E3f1012350FB7C829374CC2FAc384189e7 |                     Lootbox logic |
+|         Multiwrap Proxy | 0xa8dDAb412cE207b65440A12aF8B4d7C0dB2eeE5e |    Wrap ERC20, ERC721 and ERC1155 |
+|              Pack Proxy | 0xE5ccfEFA45601D08B1708500416fa93628A111C3 | Lootbox ERC20, ERC721 and ERC1155 |
+
 ## Run your own node
 
 - Run an [Avalanche node](https://docs.avax.network/nodes/build/set-up-node-with-installer)
