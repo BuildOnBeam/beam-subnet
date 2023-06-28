@@ -10,7 +10,7 @@
 | Beam Fuji Subnet |                                                                |
 | :--------------- | -------------------------------------------------------------: |
 | Subnet Name      |                                                           Beam |
-| Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-64x64.png) |
+| Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
 | Subnet ID        |            `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
 | VM ID            |            `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
 | Chain Name       |                                                   Beam Testnet |
