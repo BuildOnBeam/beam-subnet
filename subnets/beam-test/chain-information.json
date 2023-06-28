@@ -6,8 +6,8 @@
   "subnetId": "ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW",
   "vmId": "kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz",
   "vmName": "EVM",
-  "subnetExplorerUriId": "",
-  "explorerUrl": "",
+  "subnetExplorerUriId": "beam",
+  "explorerUrl": "https://subnets-test.avax.network/beam/",
   "rpcUrl": "https://rpc.connectednft.art:9650/ext/bc/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/rpc",
   "wsUrl": "",
   "isTestnet": true,
@@ -16,7 +16,7 @@
     "symbol": "MC",
     "decimals": 18,
     "description": "",
-    "logoUri": ""
+    "logoUri": "https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png"
   },
   "utilityAddresses": {
     "multicall": "0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E",
@@ -52,5 +52,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#000000",
-  "logoUri": ""
+  "logoUri": "https://www.onbeam.com/android-chrome-512x512.png"
 }
