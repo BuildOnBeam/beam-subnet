@@ -13,7 +13,13 @@
       ],
       "enabledAddresses": [
         "0x9180c04ce75b762f9973c7aeb5a86c1642477738",
-        "0x482820b342cc166ca500ef990dcf852826388dae"
+        "0x482820b342cc166ca500ef990dcf852826388dae",
+        "0xc13b65f7c53Cd6db2EA205a4b574b4a0858720A6",
+        "0xF5E8A439C599205C1aB06b535DE46681Aed1007a",
+        "0xbE25c1dd013979e10e6628CAeb707686DD1f73e3",
+        "0xb733B99F0f9b690C47004A835CA25e32992194DF",
+        "0x0e251d9095dD128292A28eB383127d05d95BBD17",
+        "0xc48CaB17Fcb3eb38030bc4EA54B62353d2802Ba8"
       ],
       "blockTimestamp": 0
     },
@@ -22,14 +28,14 @@
     "eip155Block": 0,
     "eip158Block": 0,
     "feeConfig": {
-      "gasLimit": 8000000,
+      "gasLimit": 20000000,
       "targetBlockRate": 2,
-      "minBaseFee": 10000000000,
-      "targetGas": 50000000,
-      "baseFeeChangeDenominator": 72,
+      "minBaseFee": 100000,
+      "targetGas": 20000000,
+      "baseFeeChangeDenominator": 100,
       "minBlockGasCost": 0,
-      "maxBlockGasCost": 1000000,
-      "blockGasCostStep": 100000
+      "maxBlockGasCost": 25000000,
+      "blockGasCostStep": 500000
     },
     "feeManagerConfig": {
       "adminAddresses": [
