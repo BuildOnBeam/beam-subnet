@@ -56,6 +56,6 @@
 - Run an [Avalanche node](https://docs.avax.network/nodes/build/set-up-node-with-installer)
 - Install [Avalanche CLI](https://docs.avax.network/subnets/install-avalanche-cli) on it
 - [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
-  - Fuji: `avalanche subnet import ./subnets/beam-test/export.json`
+  - Fuji: `avalanche subnet import ./subnets/beam-testnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
-  - Fuji: `avalanche subnet join beam-test`
+  - Fuji: `avalanche subnet join beam-testnet`
