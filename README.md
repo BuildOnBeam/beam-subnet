@@ -74,3 +74,10 @@
   - Fuji: `avalanche subnet import ./subnets/beam-testnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
   - Fuji: `avalanche subnet join beam-testnet`
+
+#### Seed the network upgrade file (only on Fuji)
+- Load the upgrade file
+    - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
+    - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
+- Reload AvalancheGo
+    - `sudo systemctl restart avalanchego`
