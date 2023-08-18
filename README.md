@@ -4,8 +4,8 @@
   - [Mainnet](https://subnets.avax.network/subnets/eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC)
   - [Testnet](https://subnets-test.avax.network/subnets/ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW)
 - Block Explorers
-  - [Mainnet](https://subnets-test.avax.network/beam/)
-  - [Testnet](https://subnets.avax.network/beam/)
+  - [Mainnet](https://subnets.avax.network/beam/)
+  - [Testnet](https://subnets-test.avax.network/beam/)
 
 ## Mainnet
 
