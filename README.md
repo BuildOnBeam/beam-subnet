@@ -11,27 +11,27 @@
 
 ### Beam Subnet Info
 
-| Beam Fuji Subnet |                                                                |
-| :--------------- | -------------------------------------------------------------: |
-| Subnet Name      |                                                           Beam |
-| Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
-| Subnet ID        |                                                         `TODO` |
-| VM ID            |                                                         `TODO` |
-| Chain Name       |                                                   Beam Mainnet |
-| Chain Logo       | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
-| Blockchain ID    |                                                         `TODO` |
-| Eth Chain ID     |                                                           4337 |
-| RPC URL          |                `https://subnets.avax.network/beam/mainnet/rpc` |
-| Explorer URL     |                             https://subnets.avax.network/beam/ |
-| Description      |                                                    Beam Subnet |
-| Site             |                                         https://www.onbeam.com |
+| Beam Subnet   |                                                                |
+| :------------ | -------------------------------------------------------------: |
+| Subnet Name   |                                                           Beam |
+| Subnet Logo   |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
+| Subnet ID     |                                                         `TODO` |
+| VM ID         |                                                         `TODO` |
+| Chain Name    |                                                   Beam Mainnet |
+| Chain Logo    | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
+| Blockchain ID |                                                         `TODO` |
+| Eth Chain ID  |                                                           4337 |
+| RPC URL       |                `https://subnets.avax.network/beam/mainnet/rpc` |
+| Explorer URL  |                             https://subnets.avax.network/beam/ |
+| Description   |                                                    Beam Subnet |
+| Site          |                                         https://www.onbeam.com |
 
 ### Beam ERC-20 Tokens
 
 | Symbol |                                    Address | Decimals |                                     Logo                                      |           Description |
 | -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
 |     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
-|    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
+|    WMC | 0xD51BFa777609213A653a2CD067c9A0132a2D316A |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
 |   LZMC |                                       TODO |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
 
 ### Beam Contracts
@@ -39,8 +39,8 @@
 |           Contract |                                    Address | Description |
 | -----------------: | -----------------------------------------: | ----------: |
 |        Multicall 3 | 0x4956f15efdc3dc16645e90cc356eafa65ffc65ec |             |
-| Uniswap v2 factory |                                         0x |             |
-|  Uniswap v2 router |                                         0x |             |
+| Uniswap v2 factory | 0x662b526FB70EBB508962f3f61c9F735f687C8fA5 |             |
+|  Uniswap v2 router | 0x965B104e250648d01d4B3b72BaC751Cde809D29E |             |
 |     Create2Factory |                                            |             |
 |     Create2Factory |                                            |             |
 |        Entry Point |                                            |             |
@@ -69,6 +69,8 @@
 |         Multiwrap Proxy |         |    Wrap ERC20, ERC721 and ERC1155 |
 |              Pack Proxy |         | Lootbox ERC20, ERC721 and ERC1155 |
 
+---
+
 ## Fuji Testnet
 
 ### Fuji Subnet Info
@@ -93,7 +95,7 @@
 | Symbol |                                    Address | Decimals |                                     Logo                                      |            Description |
 | -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
 |     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
-|    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
+|    WMC | 0xF65B6f9c94187276C7d91F4F74134751d248bFeA |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
 |   LZMC | 0x3438271Fd753b8b217447Bf7B18249347B282CCD |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
 
 ### Fuji Subnet Contracts
