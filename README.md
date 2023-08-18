@@ -1,15 +1,81 @@
 # Beam Subnet
 
-## Fuji Testnet
+- Subnet Overview
+  - [Mainnet](https://subnets.avax.network/subnets/eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC)
+  - [Testnet](https://subnets-test.avax.network/subnets/ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW)
+- Block Explorers
+  - [Mainnet](https://subnets-test.avax.network/beam/)
+  - [Testnet](https://subnets.avax.network/beam/)
 
-[Subnet Overview](https://subnets-test.avax.network/subnets/ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW)
-[Block Explorer](https://subnets-test.avax.network/beam/)
+## Mainnet
+
+### Beam Subnet Info
+
+| Beam Fuji Subnet |                                                                |
+| :--------------- | -------------------------------------------------------------: |
+| Subnet Name      |                                                           Beam |
+| Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
+| Subnet ID        |                                                         `TODO` |
+| VM ID            |                                                         `TODO` |
+| Chain Name       |                                                   Beam Mainnet |
+| Chain Logo       | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
+| Blockchain ID    |                                                         `TODO` |
+| Eth Chain ID     |                                                           4337 |
+| RPC URL          |                `https://subnets.avax.network/beam/mainnet/rpc` |
+| Explorer URL     |                             https://subnets.avax.network/beam/ |
+| Description      |                                                    Beam Subnet |
+| Site             |                                         https://www.onbeam.com |
+
+### Beam ERC-20 Tokens
+
+| Symbol |                                    Address | Decimals |                                     Logo                                      |           Description |
+| -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
+|     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
+|    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
+|   LZMC |                                       TODO |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
+
+### Beam Contracts
+
+|           Contract |                                    Address | Description |
+| -----------------: | -----------------------------------------: | ----------: |
+|        Multicall 3 | 0x4956f15efdc3dc16645e90cc356eafa65ffc65ec |             |
+| Uniswap v2 factory |                                         0x |             |
+|  Uniswap v2 router |                                         0x |             |
+|     Create2Factory |                                            |             |
+|     Create2Factory |                                            |             |
+|        Entry Point |                                            |             |
+
+### Beam Seaport Contracts
+
+|                                      Contract | Address | Description |
+| --------------------------------------------: | ------: | ----------: |
+|              KEYLESS_CREATE2_DEPLOYER_ADDRESS |         |             |
+|                       KEYLESS_CREATE2_ADDRESS |         |             |
+| INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS |         |             |
+|             IMMUTABLE_CREATE2_FACTORY_ADDRESS |         |             |
+|                             ConduitController |         |             |
+|                                   Seaport 1.4 |         |             |
+|                                   Seaport 1.5 |         |             |
+
+### Beam Thirdweb Contracts
+
+|                Contract | Address |                       Description |
+| ----------------------: | ------: | --------------------------------: |
+|       Trusted Forwarder |         |                               GSN |
+|              TWRegistry |         |          Register implementations |
+|               TWFactory |         |                    Deploy proxies |
+| Multiwrap Impelentation |         |                        Wrap logic |
+|      Pack Impelentation |         |                     Lootbox logic |
+|         Multiwrap Proxy |         |    Wrap ERC20, ERC721 and ERC1155 |
+|              Pack Proxy |         | Lootbox ERC20, ERC721 and ERC1155 |
+
+## Fuji Testnet
 
 ### Fuji Subnet Info
 
 | Beam Fuji Subnet |                                                                |
 | :--------------- | -------------------------------------------------------------: |
-| Subnet Name      |                                                           Beam |
+| Subnet Name      |                                                   Beam Testnet |
 | Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
 | Subnet ID        |            `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
 | VM ID            |            `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
@@ -24,10 +90,11 @@
 
 ### Fuji Subnet ERC-20 Tokens
 
-| Symbol |                                    Address | Decimals |                                                  Logo                                                   |            Description |
-| -----: | -----------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ---------------------: |
-|     MC |                                            |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | Beam mock native token |
-|    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |        Mock Wrapped MC |
+| Symbol |                                    Address | Decimals |                                     Logo                                      |            Description |
+| -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
+|     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
+|    WMC | 0x9bEacCFD08D12281D8Bd07b8B7899C54d6964700 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
+|   LZMC | 0x3438271Fd753b8b217447Bf7B18249347B282CCD |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
 
 ### Fuji Subnet Contracts
 
@@ -75,9 +142,11 @@
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
   - Fuji: `avalanche subnet join beam-testnet`
 
-#### Seed the network upgrade file (only on Fuji)
+#### Seed the network upgrade file
+
 - Load the upgrade file
+  - Fuji:
     - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
     - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
 - Reload AvalancheGo
-    - `sudo systemctl restart avalanchego`
+  - `sudo systemctl restart avalanchego`
