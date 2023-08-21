@@ -107,7 +107,7 @@
 |        Multicall 2 | 0x680638eB73F5d8a1207f38CC3eF7BAE9281d3F32 |             |
 |        Multicall 3 | 0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E |             |
 | Uniswap v2 factory | 0xfABa62a3B12f7c29F21881F5ed4c56cb6d45E4fb |             |
-|  Uniswap v2 router | 0x91FE6E298Ee000cAb57c6b71fbBC5D834Bc81ef1 |             |
+|  Uniswap v2 router | 0xB4cFBc4836c5a0Eb27A502B6008f9baF3Bf8b3Ee |             |
 |     Create2Factory | 0x7A0D94F55792C434d74a40883C6ed8545E406D12 |             |
 |     Create2Factory | 0x4e59b44847b379578588920cA78FbF26c0B4956C |             |
 |        Entry Point | 0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789 |             |
