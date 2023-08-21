@@ -6,6 +6,7 @@
 - Block Explorers
   - [Mainnet](https://subnets.avax.network/beam/)
   - [Testnet](https://subnets-test.avax.network/beam/)
+- [Testnet Faucet](https://faucet.avax.network/?subnet=beam)
 
 ## Mainnet
 
@@ -74,20 +75,21 @@
 
 ### Fuji Subnet Info
 
-| Beam Fuji Subnet |                                                                |
-| :--------------- | -------------------------------------------------------------: |
-| Subnet Name      |                                                   Beam Testnet |
-| Subnet Logo      |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
-| Subnet ID        |            `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
-| VM ID            |            `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
-| Chain Name       |                                                   Beam Testnet |
-| Chain Logo       | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
-| Blockchain ID    |            `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
-| Eth Chain ID     |                                                          13337 |
-| RPC URL          |                `https://subnets.avax.network/beam/testnet/rpc` |
-| Explorer URL     |                        https://subnets-test.avax.network/beam/ |
-| Description      |                                               Beam Fuji Subnet |
-| Site             |                                         https://www.onbeam.com |
+| Beam Fuji Subnet |                                                                         |
+| :--------------- | ----------------------------------------------------------------------: |
+| Subnet Name      |                                                            Beam Testnet |
+| Subnet Logo      |                  ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
+| Subnet ID        |                     `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
+| VM ID            |                     `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
+| Chain Name       |                                                            Beam Testnet |
+| Chain Logo       |          [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
+| Blockchain ID    |                     `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
+| Eth Chain ID     |                                                                   13337 |
+| RPC URL          |                         `https://subnets.avax.network/beam/testnet/rpc` |
+| Explorer URL     |                                 https://subnets-test.avax.network/beam/ |
+| Description      |                                                        Beam Fuji Subnet |
+| Site             |                                                  https://www.onbeam.com |
+| Faucet URL       | [https://faucet.avax.network](https://faucet.avax.network/?subnet=beam) |
 
 ### Fuji Subnet ERC-20 Tokens
 
