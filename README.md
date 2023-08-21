@@ -47,15 +47,14 @@
 
 ### Beam Seaport Contracts
 
-|                                      Contract | Address | Description |
-| --------------------------------------------: | ------: | ----------: |
-|              KEYLESS_CREATE2_DEPLOYER_ADDRESS |         |             |
-|                       KEYLESS_CREATE2_ADDRESS |         |             |
-| INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS |         |             |
-|             IMMUTABLE_CREATE2_FACTORY_ADDRESS |         |             |
-|                             ConduitController |         |             |
-|                                   Seaport 1.4 |         |             |
-|                                   Seaport 1.5 |         |             |
+|                                      Contract |                                    Address |
+| --------------------------------------------: | -----------------------------------------: |
+|              KEYLESS_CREATE2_DEPLOYER_ADDRESS | [``0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1``](https://subnets.avax.network/beam/address/0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1) |
+|                       KEYLESS_CREATE2_ADDRESS | [``0x7A0D94F55792C434d74a40883C6ed8545E406D12``](https://subnets.avax.network/beam/address/0x7A0D94F55792C434d74a40883C6ed8545E406D12) |
+| INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS | [``0xcfA3A7637547094fF06246817a35B8333C315196``](https://subnets.avax.network/beam/address/0xcfA3A7637547094fF06246817a35B8333C315196) |
+|             IMMUTABLE_CREATE2_FACTORY_ADDRESS | [``0x0000000000ffe8b47b3e2130213b802212439497``](https://subnets.avax.network/beam/address/0x0000000000ffe8b47b3e2130213b802212439497) |
+|                             ConduitController | [``0x00000000F9490004C11Cef243f5400493c00Ad63``](https://subnets.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
+|                                   Seaport 1.4 | [``0x00000000000001ad428e4906aE43D8F9852d0dD6``](https://subnets.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
 
 ### Beam Thirdweb Contracts
 
