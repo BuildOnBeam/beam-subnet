@@ -29,11 +29,11 @@
 
 ### Beam ERC-20 Tokens
 
-| Symbol |                                    Address | Decimals |                                     Logo                                      |           Description |
-| -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
-|     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
-|    WMC | 0xD51BFa777609213A653a2CD067c9A0132a2D316A |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
-|   LZMC | 0xE6969775d08171e24165aad38859D3bB96954515 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
+| Symbol |                                                                                                                          Address | Decimals |                                     Logo                                      |           Description |
+| -----: | -------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
+|     MC |                                                                                                                                  |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
+|    WMC | [0xD51BFa777609213A653a2CD067c9A0132a2D316A](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
+|   LZMC | [0xE6969775d08171e24165aad38859D3bB96954515](https://subnets.avax.network/beam/token/0xE6969775d08171e24165aad38859D3bB96954515) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
 
 ### MC Token on Ethereum
 
@@ -57,14 +57,14 @@
 
 ### Beam Seaport Contracts
 
-|                                      Contract |                                    Address |
-| --------------------------------------------: | -----------------------------------------: |
-|              KEYLESS_CREATE2_DEPLOYER_ADDRESS | [``0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1``](https://subnets.avax.network/beam/address/0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1) |
-|                       KEYLESS_CREATE2_ADDRESS | [``0x7A0D94F55792C434d74a40883C6ed8545E406D12``](https://subnets.avax.network/beam/address/0x7A0D94F55792C434d74a40883C6ed8545E406D12) |
-| INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS | [``0xcfA3A7637547094fF06246817a35B8333C315196``](https://subnets.avax.network/beam/address/0xcfA3A7637547094fF06246817a35B8333C315196) |
-|             IMMUTABLE_CREATE2_FACTORY_ADDRESS | [``0x0000000000ffe8b47b3e2130213b802212439497``](https://subnets.avax.network/beam/address/0x0000000000ffe8b47b3e2130213b802212439497) |
-|                             ConduitController | [``0x00000000F9490004C11Cef243f5400493c00Ad63``](https://subnets.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
-|                                   Seaport 1.4 | [``0x00000000000001ad428e4906aE43D8F9852d0dD6``](https://subnets.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
+|                                      Contract |                                                                                                                              Address |
+| --------------------------------------------: | -----------------------------------------------------------------------------------------------------------------------------------: |
+|              KEYLESS_CREATE2_DEPLOYER_ADDRESS | [`0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1`](https://subnets.avax.network/beam/address/0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1) |
+|                       KEYLESS_CREATE2_ADDRESS | [`0x7A0D94F55792C434d74a40883C6ed8545E406D12`](https://subnets.avax.network/beam/address/0x7A0D94F55792C434d74a40883C6ed8545E406D12) |
+| INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS | [`0xcfA3A7637547094fF06246817a35B8333C315196`](https://subnets.avax.network/beam/address/0xcfA3A7637547094fF06246817a35B8333C315196) |
+|             IMMUTABLE_CREATE2_FACTORY_ADDRESS | [`0x0000000000ffe8b47b3e2130213b802212439497`](https://subnets.avax.network/beam/address/0x0000000000ffe8b47b3e2130213b802212439497) |
+|                             ConduitController | [`0x00000000F9490004C11Cef243f5400493c00Ad63`](https://subnets.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
+|                                   Seaport 1.4 | [`0x00000000000001ad428e4906aE43D8F9852d0dD6`](https://subnets.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
 
 ### Beam Thirdweb Contracts
 
@@ -102,11 +102,11 @@
 
 ### Fuji Subnet ERC-20 Tokens
 
-| Symbol |                                    Address | Decimals |                                     Logo                                      |            Description |
-| -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
-|     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
-|    WMC | 0xF65B6f9c94187276C7d91F4F74134751d248bFeA |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
-|   LZMC | 0x3438271Fd753b8b217447Bf7B18249347B282CCD |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
+| Symbol |                                                                                                                               Address | Decimals |                                     Logo                                      |            Description |
+| -----: | ------------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
+|     MC |                                                                                                                                       |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
+|    WMC | [0xF65B6f9c94187276C7d91F4F74134751d248bFeA](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
+|   LZMC | [0x3438271Fd753b8b217447Bf7B18249347B282CCD](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
 
 ### MC Token on Fuji
 
