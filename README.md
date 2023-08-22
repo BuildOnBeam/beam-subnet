@@ -33,7 +33,16 @@
 | -----: | -----------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
 |     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
 |    WMC | 0xD51BFa777609213A653a2CD067c9A0132a2D316A |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
-|   LZMC |                                       TODO |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
+|   LZMC | 0xE6969775d08171e24165aad38859D3bB96954515 |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
+
+### MC Token on Ethereum
+
+(bridged via LayerZero)
+
+|            Contract |                                                                                                             Address |
+| ------------------: | ------------------------------------------------------------------------------------------------------------------: |
+|      Ethereum ERC20 | [0x949d48eca67b17269629c7194f4b727d4ef9e5d6](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
+| LayerZero Proxy OFT |                                                                           [TODO](https://etherscan.io/token/0xTODO) |
 
 ### Beam Contracts
 
@@ -98,6 +107,15 @@
 |     MC |                                            |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
 |    WMC | 0xF65B6f9c94187276C7d91F4F74134751d248bFeA |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
 |   LZMC | 0x3438271Fd753b8b217447Bf7B18249347B282CCD |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
+
+### MC Token on Fuji
+
+(bridged via LayerZero)
+
+|            Contract |                                                                                                                     Address |
+| ------------------: | --------------------------------------------------------------------------------------------------------------------------: |
+|     Fuji Mock ERC20 | [0x955723e26bd1b2165391BCaf39A92f77b30FFe01](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
+| LayerZero Proxy OFT | [0xa4125191E017CdF143255371A9E056f83A839b42](https://testnet.snowtrace.io/token/0xa4125191E017CdF143255371A9E056f83A839b42) |
 
 ### Fuji Subnet Contracts
 
