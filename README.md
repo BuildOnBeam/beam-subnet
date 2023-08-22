@@ -46,14 +46,14 @@
 
 ### Beam Contracts
 
-|           Contract |                                    Address | Description |
-| -----------------: | -----------------------------------------: | ----------: |
-|        Multicall 3 | 0x4956f15efdc3dc16645e90cc356eafa65ffc65ec |             |
-| Uniswap v2 factory | 0x662b526FB70EBB508962f3f61c9F735f687C8fA5 |             |
-|  Uniswap v2 router | 0x965B104e250648d01d4B3b72BaC751Cde809D29E |             |
-|     Create2Factory |                                            |             |
-|     Create2Factory |                                            |             |
-|        Entry Point |                                            |             |
+|           Contract |                                    Address |
+| -----------------: | -----------------------------------------: |
+|        Multicall 3 | [`0x4956f15efdc3dc16645e90cc356eafa65ffc65ec`](https://subnets.avax.network/beam/address/0x4956f15efdc3dc16645e90cc356eafa65ffc65ec) |
+| Uniswap v2 factory | [`0x662b526FB70EBB508962f3f61c9F735f687C8fA5`](https://subnets.avax.network/beam/address/0x662b526FB70EBB508962f3f61c9F735f687C8fA5) |
+|  Uniswap v2 router | [`0x965B104e250648d01d4B3b72BaC751Cde809D29E`](https://subnets.avax.network/beam/address/0x965B104e250648d01d4B3b72BaC751Cde809D29E) |
+|     Create2Factory | [`0x4c8d290a1b368ac4728d83a9e8321fc3af2b39b1`](https://subnets.avax.network/beam/address/0x4c8d290a1b368ac4728d83a9e8321fc3af2b39b1) |
+|     Create2Factory | [`0x3fab184622dc19b6109349b94811493bf2a45362`](https://subnets.avax.network/beam/address/0x3fab184622dc19b6109349b94811493bf2a45362) |
+|        Entry Point | [`0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789`](https://subnets.avax.network/beam/address/0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789) |
 
 ### Beam Seaport Contracts
 
