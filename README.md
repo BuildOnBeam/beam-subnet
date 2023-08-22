@@ -6,6 +6,9 @@
 - Block Explorers
   - [Mainnet](https://subnets.avax.network/beam/)
   - [Testnet](https://subnets-test.avax.network/beam/)
+- RPC URLs:
+  - Mainnet: `https://subnets.avax.network/beam/mainnet/rpc` (chain id 4337)
+  - Testnet: `https://subnets.avax.network/beam/testnet/rpc` (chain id 13337)
 - [Testnet Faucet](https://faucet.avax.network/?subnet=beam)
 
 ## Mainnet
@@ -39,10 +42,10 @@
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                             Address |
-| ------------------: | ------------------------------------------------------------------------------------------------------------------: |
-|      Ethereum ERC20 | [0x949d48eca67b17269629c7194f4b727d4ef9e5d6](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
-| LayerZero Proxy OFT |                                                                           [TODO](https://etherscan.io/token/0xTODO) |
+|            Contract |                                                                                                               Address |
+| ------------------: | --------------------------------------------------------------------------------------------------------------------: |
+|      Ethereum ERC20 |   [0x949d48eca67b17269629c7194f4b727d4ef9e5d6](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
+| LayerZero Proxy OFT | [0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12](https://etherscan.io/address/0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12) |
 
 ### Beam Contracts
 
@@ -112,10 +115,10 @@
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                                     Address |
-| ------------------: | --------------------------------------------------------------------------------------------------------------------------: |
-|     Fuji Mock ERC20 | [0x955723e26bd1b2165391BCaf39A92f77b30FFe01](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
-| LayerZero Proxy OFT | [0xa4125191E017CdF143255371A9E056f83A839b42](https://testnet.snowtrace.io/token/0xa4125191E017CdF143255371A9E056f83A839b42) |
+|            Contract |                                                                                                                       Address |
+| ------------------: | ----------------------------------------------------------------------------------------------------------------------------: |
+|     Fuji Mock ERC20 |   [0x955723e26bd1b2165391BCaf39A92f77b30FFe01](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
+| LayerZero Proxy OFT | [0xa4125191E017CdF143255371A9E056f83A839b42](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
 
 ### Fuji Subnet Contracts
 
