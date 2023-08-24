@@ -26,6 +26,7 @@
 | Blockchain ID |           `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
 | Eth Chain ID  |                                                           4337 |
 | RPC URL       |                `https://subnets.avax.network/beam/mainnet/rpc` |
+| WS RPC URL    |                   `wss://subnets.avax.network/beam/mainnet/ws` |
 | Explorer URL  |                             https://subnets.avax.network/beam/ |
 | Description   |                                                    Beam Subnet |
 | Site          |                                         https://www.onbeam.com |
@@ -49,8 +50,8 @@
 
 ### Beam Contracts
 
-|           Contract |                                    Address |
-| -----------------: | -----------------------------------------: |
+|           Contract |                                                                                                                              Address |
+| -----------------: | -----------------------------------------------------------------------------------------------------------------------------------: |
 |        Multicall 3 | [`0x4956f15efdc3dc16645e90cc356eafa65ffc65ec`](https://subnets.avax.network/beam/address/0x4956f15efdc3dc16645e90cc356eafa65ffc65ec) |
 | Uniswap v2 factory | [`0x662b526FB70EBB508962f3f61c9F735f687C8fA5`](https://subnets.avax.network/beam/address/0x662b526FB70EBB508962f3f61c9F735f687C8fA5) |
 |  Uniswap v2 router | [`0x965B104e250648d01d4B3b72BaC751Cde809D29E`](https://subnets.avax.network/beam/address/0x965B104e250648d01d4B3b72BaC751Cde809D29E) |
@@ -98,6 +99,7 @@
 | Blockchain ID    |                     `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
 | Eth Chain ID     |                                                                   13337 |
 | RPC URL          |                         `https://subnets.avax.network/beam/testnet/rpc` |
+| WS RPC URL       |                            `wss://subnets.avax.network/beam/testnet/ws` |
 | Explorer URL     |                                 https://subnets-test.avax.network/beam/ |
 | Description      |                                                        Beam Fuji Subnet |
 | Site             |                                                  https://www.onbeam.com |
