@@ -1,0 +1,17 @@
+{
+  "precompileUpgrades": [
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1692702000,
+        "adminAddresses": [
+          "0x1cD22E79976Cb97FB65CCbadA316EBd46881Fa12",
+          "0xBCa66eAf37B4C08B49D41e682E701e153F17E1D6",
+          "0x172FFFc69ED471B7fF2465aE97504985F7071593"
+				],
+				"enabledAddresses": [
+					"0x277280e8337E64a3A8E8b795D4E8E5e00BF6e203"
+				]
+      }
+    }
+  ]
+}
