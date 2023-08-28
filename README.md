@@ -20,7 +20,7 @@
 | Subnet Name   |                                                           Beam |
 | Subnet Logo   |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
 | Subnet ID     |            `eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC` |
-| VM ID         |           `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
+| VM ID         |            `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
 | Chain Name    |                                                   Beam Mainnet |
 | Chain Logo    | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
 | Blockchain ID |           `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
