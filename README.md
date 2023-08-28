@@ -163,16 +163,27 @@
 
 - Run an [Avalanche node](https://docs.avax.network/nodes/build/set-up-node-with-installer)
 - Install [Avalanche CLI](https://docs.avax.network/subnets/install-avalanche-cli) on it
+
+## Import and join a subnet
+
+#### Fuji:
 - [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
-  - Fuji: `avalanche subnet import ./subnets/beam-testnet/export.json`
+  - `avalanche subnet import ./subnets/beam-testnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
-  - Fuji: `avalanche subnet join beam-testnet`
+  - `avalanche subnet join beam`
+- Seed the network upgrade file
+  - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
+  - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
+- Reload AvalancheGo
+  - `sudo systemctl restart avalanchego` 
 
-#### Seed the network upgrade file
-
-- Load the upgrade file
-  - Fuji:
-    - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
-    - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
+#### Mainnet:
+- [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
+  - `avalanche subnet import ./subnets/beam-mainnet/export.json`
+- [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
+  - `avalanche subnet join beam`
+- Seed the network upgrade file
+  - `mkdir .avalanchego/configs/chains/2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn`
+  - `cp ./subnets/beam-mainnet/upgrade.json .avalanchego/configs/chains/2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn/`
 - Reload AvalancheGo
   - `sudo systemctl restart avalanchego`
