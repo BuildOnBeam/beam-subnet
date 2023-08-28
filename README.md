@@ -9,6 +9,8 @@
 - RPC URLs:
   - Mainnet: `https://subnets.avax.network/beam/mainnet/rpc` (chain id 4337)
   - Testnet: `https://subnets.avax.network/beam/testnet/rpc` (chain id 13337)
+- [BeamSwap DEX](https://swap.onbeam.com)
+- [LayerZero Bridge](https://bridge.onbeam.com)
 - [Testnet Faucet](https://faucet.avax.network/?subnet=beam)
 
 ## Mainnet
