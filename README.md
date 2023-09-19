@@ -35,19 +35,22 @@
 
 ### Beam ERC-20 Tokens
 
-| Symbol |                                                                                                                          Address | Decimals |                                     Logo                                      |           Description |
-| -----: | -------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | --------------------: |
-|     MC |                                                                                                                                  |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |     Beam native token |
-|    WMC | [`0xD51BFa777609213A653a2CD067c9A0132a2D316A`](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |            Wrapped MC |
-|   LZMC | [`0xE6969775d08171e24165aad38859D3bB96954515`](https://subnets.avax.network/beam/token/0xE6969775d08171e24165aad38859D3bB96954515) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | LayerZero MC (Bridge) |
+| Symbol |                                                                                                                          Address | Decimals |                                                  Logo                                                   |           Description |
+| -----: | -------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | --------------------: |
+|     MC |                                                                                                                                  |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |     Beam native token |
+|    WMC | [0xD51BFa777609213A653a2CD067c9A0132a2D316A](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |            Wrapped MC |
+|   LZMC | [0xE6969775d08171e24165aad38859D3bB96954515](https://subnets.avax.network/beam/token/0xE6969775d08171e24165aad38859D3bB96954515) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | LayerZero MC (Bridge) |
+|   USDC | [0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304](https://subnets.avax.network/beam/token/0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |              USD Coin |
+|   USDT | [0x999f90f25a2922ae1b21A06066F7EDEbedad42a9](https://subnets.avax.network/beam/token/0x999f90f25a2922ae1b21A06066F7EDEbedad42a9) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |            Tether USD |
+|   AVAX | [0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34](https://subnets.avax.network/beam/token/0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |             Avalanche |
 
 ### MC Token on Ethereum
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                               Address |
-| ------------------: | --------------------------------------------------------------------------------------------------------------------: |
-|      Ethereum ERC20 | [`0x949d48eca67b17269629c7194f4b727d4ef9e5d6`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
+|            Contract |                                                                                                                 Address |
+| ------------------: | ----------------------------------------------------------------------------------------------------------------------: |
+|      Ethereum ERC20 |   [`0x949d48eca67b17269629c7194f4b727d4ef9e5d6`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
 | LayerZero Proxy OFT | [`0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12`](https://etherscan.io/address/0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12) |
 
 ### Beam Contracts
@@ -111,9 +114,9 @@
 
 ### Fuji Subnet ERC-20 Tokens
 
-| Symbol |                                                                                                                               Address | Decimals |                                     Logo                                      |            Description |
-| -----: | ------------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
-|     MC |                                                                                                                                       |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
+| Symbol |                                                                                                                                 Address | Decimals |                                     Logo                                      |            Description |
+| -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
+|     MC |                                                                                                                                         |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
 |    WMC | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
 |   LZMC | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
 
@@ -121,15 +124,15 @@
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                                       Address |
-| ------------------: | ----------------------------------------------------------------------------------------------------------------------------: |
+|            Contract |                                                                                                                         Address |
+| ------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
 |     Fuji Mock ERC20 |   [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
 | LayerZero Proxy OFT | [`0xa4125191E017CdF143255371A9E056f83A839b42`](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
 
 ### Fuji Subnet Contracts
 
-|           Contract |                                    Address |
-| -----------------: | -----------------------------------------: |
+|           Contract |                                                                                                                                   Address |
+| -----------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
 |        Multicall 1 | [`0x4661e0d785b2eE35B9a101B684303F1a0daf4cc5`](https://subnets-test.avax.network/beam/address/0x4661e0d785b2eE35B9a101B684303F1a0daf4cc5) |
 |        Multicall 2 | [`0x680638eB73F5d8a1207f38CC3eF7BAE9281d3F32`](https://subnets-test.avax.network/beam/address/0x680638eB73F5d8a1207f38CC3eF7BAE9281d3F32) |
 |        Multicall 3 | [`0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E`](https://subnets-test.avax.network/beam/address/0x9BF49b704EE2A095b95c1f2D4EB9010510c41C9E) |
@@ -141,8 +144,8 @@
 
 ### Fuji Subnet Seaport Contracts
 
-|                                      Contract |                                    Address |
-| --------------------------------------------: | -----------------------------------------: |
+|                                      Contract |                                                                                                                                   Address |
+| --------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
 |              KEYLESS_CREATE2_DEPLOYER_ADDRESS | [`0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1`](https://subnets-test.avax.network/beam/address/0x4c8D290a1B368ac4728d83a9e8321fC3af2b39b1) |
 |                       KEYLESS_CREATE2_ADDRESS | [`0x7A0D94F55792C434d74a40883C6ed8545E406D12`](https://subnets-test.avax.network/beam/address/0x7A0D94F55792C434d74a40883C6ed8545E406D12) |
 | INEFFICIENT_IMMUTABLE_CREATE2_FACTORY_ADDRESS | [`0xcfA3A7637547094fF06246817a35B8333C315196`](https://subnets-test.avax.network/beam/address/0xcfA3A7637547094fF06246817a35B8333C315196) |
@@ -153,8 +156,8 @@
 
 ### Fuji Subnet Thirdweb Contracts
 
-|                Contract |                                    Address |                       Description |
-| ----------------------: | -----------------------------------------: | --------------------------------: |
+|                Contract |                                                                                                                                   Address |                       Description |
+| ----------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------: |
 |       Trusted Forwarder | [`0xe518da278288337FdE7B9b8cCb1217c40B759580`](https://subnets-test.avax.network/beam/address/0xe518da278288337FdE7B9b8cCb1217c40B759580) |                               GSN |
 |              TWRegistry | [`0x238fC67A71DE52832Ed38cdef6aaD8Cea57cd4b6`](https://subnets-test.avax.network/beam/address/0x238fC67A71DE52832Ed38cdef6aaD8Cea57cd4b6) |          Register implementations |
 |               TWFactory | [`0xa9eA7C2af311b361f86d435BFC0e8FE2EB310b56`](https://subnets-test.avax.network/beam/address/0xa9eA7C2af311b361f86d435BFC0e8FE2EB310b56) |                    Deploy proxies |
@@ -171,6 +174,7 @@
 ## Import and join a subnet
 
 #### Fuji:
+
 - [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
   - `avalanche subnet import ./subnets/beam-testnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
@@ -179,9 +183,10 @@
   - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
   - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
 - Reload AvalancheGo
-  - `sudo systemctl restart avalanchego` 
+  - `sudo systemctl restart avalanchego`
 
 #### Mainnet:
+
 - [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
   - `avalanche subnet import ./subnets/beam-mainnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
