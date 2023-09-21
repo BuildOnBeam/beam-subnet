@@ -114,11 +114,14 @@
 
 ### Fuji Subnet ERC-20 Tokens
 
-| Symbol |                                                                                                                                 Address | Decimals |                                     Logo                                      |            Description |
-| -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :---------------------------------------------------------------------------: | ---------------------: |
-|     MC |                                                                                                                                         |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) | Beam mock native token |
-|    WMC | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |        Mock Wrapped MC |
-|   LZMC | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 | ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png) |  LayerZero MC (Bridge) |
+| Symbol |                                                                                                                                 Address | Decimals |                                                  Logo                                                   |            Description |
+| -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ---------------------: |
+|     MC |                                                                                                                                         |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | Beam mock native token |
+|    WMC | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |        Mock Wrapped MC |
+|   LZMC | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |  LayerZero MC (Bridge) |
+|   USDC |   [0x007Fdc86FD12924C9116025C7F594843087397E3](https://subnets-test.avax.network/beam/token/0x007Fdc86FD12924C9116025C7F594843087397E3) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |               USD Coin |
+|   USDT |   [0x29633Cf4FF2D98347895C7327f83Ab4cd592C808](https://subnets-test.avax.network/beam/token/0x29633Cf4FF2D98347895C7327f83Ab4cd592C808) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |             Tether USD |
+|   AVAX |   [0x2CC787Ed364600B0222361C4188308Fa8E68bA60](https://subnets-test.avax.network/beam/token/0x2CC787Ed364600B0222361C4188308Fa8E68bA60) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |              Avalanche |
 
 ### MC Token on Fuji
 
