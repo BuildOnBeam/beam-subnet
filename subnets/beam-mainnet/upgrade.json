@@ -27,6 +27,12 @@
         "blockTimestamp": 1698771600,
         "disable": true
       }
+    },
+    {
+      "contractDeployerAllowListConfig": {
+        "blockTimestamp": 1698775200,
+        "disable": true
+      }
     }
   ]
 }
