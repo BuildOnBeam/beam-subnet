@@ -35,23 +35,23 @@
 
 ### Beam ERC-20 Tokens
 
-| Symbol |                                                                                                                            Address | Decimals |                                                  Logo                                                   |           Description |
-| -----: | ---------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | --------------------: |
-|     MC |                                                                                                                                    |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |     Beam native token |
-|    WMC | [`0xD51BFa777609213A653a2CD067c9A0132a2D316A`](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |            Wrapped MC |
-|   LZMC | [`0xE6969775d08171e24165aad38859D3bB96954515`](https://subnets.avax.network/beam/token/0xE6969775d08171e24165aad38859D3bB96954515) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | LayerZero MC (Bridge) |
-|   USDC | [`0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304`](https://subnets.avax.network/beam/token/0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |              USD Coin |
-|   USDT | [`0x999f90f25a2922ae1b21A06066F7EDEbedad42a9`](https://subnets.avax.network/beam/token/0x999f90f25a2922ae1b21A06066F7EDEbedad42a9) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |            Tether USD |
-|   AVAX | [`0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34`](https://subnets.avax.network/beam/token/0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |             Avalanche |
+| Symbol |                                                                                                                            Address | Decimals |                                                  Logo                                                   |             Description |
+| -----: | ---------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ----------------------: |
+|   BEAM |                                                                                                                                    |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |       Beam native token |
+|  WBEAM | [`0xD51BFa777609213A653a2CD067c9A0132a2D316A`](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |            Wrapped Beam |
+| LZBEAM | [`0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821`](https://subnets.avax.network/beam/token/0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          | LayerZero Beam (Bridge) |
+|   USDC | [`0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304`](https://subnets.avax.network/beam/token/0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |                USD Coin |
+|   USDT | [`0x999f90f25a2922ae1b21A06066F7EDEbedad42a9`](https://subnets.avax.network/beam/token/0x999f90f25a2922ae1b21A06066F7EDEbedad42a9) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |              Tether USD |
+|   AVAX | [`0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34`](https://subnets.avax.network/beam/token/0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |               Avalanche |
 
-### MC Token on Ethereum
+### BEAM Token on Ethereum
 
 (bridged via LayerZero)
 
 |            Contract |                                                                                                                 Address |
 | ------------------: | ----------------------------------------------------------------------------------------------------------------------: |
-|      Ethereum ERC20 |   [`0x949d48eca67b17269629c7194f4b727d4ef9e5d6`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
-| LayerZero Proxy OFT | [`0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12`](https://etherscan.io/address/0xf5cD17E2EA38CF7079bAb4ba2b951e9e8F13Ae12) |
+| Beam Ethereum ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
+| LayerZero Proxy OFT | [`0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9`](https://etherscan.io/address/0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9) |
 
 ### Beam Contracts
 
@@ -114,23 +114,23 @@
 
 ### Fuji Subnet ERC-20 Tokens
 
-| Symbol |                                                                                                                                 Address | Decimals |                                                  Logo                                                   |            Description |
-| -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ---------------------: |
-|     MC |                                                                                                                                         |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              | Beam mock native token |
-|    WMC | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |        Mock Wrapped MC |
-|   LZMC | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 |              ![MC logo](https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png)              |  LayerZero MC (Bridge) |
-|   USDC | [`0x007Fdc86FD12924C9116025C7F594843087397E3`](https://subnets-test.avax.network/beam/token/0x007Fdc86FD12924C9116025C7F594843087397E3) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |               USD Coin |
-|   USDT | [`0x29633Cf4FF2D98347895C7327f83Ab4cd592C808`](https://subnets-test.avax.network/beam/token/0x29633Cf4FF2D98347895C7327f83Ab4cd592C808) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |             Tether USD |
-|   AVAX | [`0x2CC787Ed364600B0222361C4188308Fa8E68bA60`](https://subnets-test.avax.network/beam/token/0x2CC787Ed364600B0222361C4188308Fa8E68bA60) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |              Avalanche |
+| Symbol |                                                                                                                                 Address | Decimals |                                                  Logo                                                   |             Description |
+| -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ----------------------: |
+|   BEAM |                                                                                                                                         |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |  Beam mock native token |
+|  WBEAM | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |       Mock Wrapped Beam |
+| LZBEAM | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          | LayerZero Beam (Bridge) |
+|   USDC | [`0x007Fdc86FD12924C9116025C7F594843087397E3`](https://subnets-test.avax.network/beam/token/0x007Fdc86FD12924C9116025C7F594843087397E3) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |                USD Coin |
+|   USDT | [`0x29633Cf4FF2D98347895C7327f83Ab4cd592C808`](https://subnets-test.avax.network/beam/token/0x29633Cf4FF2D98347895C7327f83Ab4cd592C808) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |              Tether USD |
+|   AVAX | [`0x2CC787Ed364600B0222361C4188308Fa8E68bA60`](https://subnets-test.avax.network/beam/token/0x2CC787Ed364600B0222361C4188308Fa8E68bA60) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |               Avalanche |
 
-### MC Token on Fuji
+### BEAM Token on Fuji
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                                         Address |
-| ------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
-|     Fuji Mock ERC20 |   [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
-| LayerZero Proxy OFT | [`0xa4125191E017CdF143255371A9E056f83A839b42`](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
+|             Contract |                                                                                                                         Address |
+| -------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
+| Beam Fuji Mock ERC20 |   [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
+|  LayerZero Proxy OFT | [`0xa4125191E017CdF143255371A9E056f83A839b42`](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
 
 ### Fuji Subnet Contracts
 
