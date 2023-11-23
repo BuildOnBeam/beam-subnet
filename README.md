@@ -76,6 +76,7 @@
 |             IMMUTABLE_CREATE2_FACTORY_ADDRESS | [`0x0000000000ffe8b47b3e2130213b802212439497`](https://subnets.avax.network/beam/address/0x0000000000ffe8b47b3e2130213b802212439497) |
 |                             ConduitController | [`0x00000000F9490004C11Cef243f5400493c00Ad63`](https://subnets.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
 |                                   Seaport 1.4 | [`0x00000000000001ad428e4906aE43D8F9852d0dD6`](https://subnets.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
+|                                   Seaport 1.5 | [`0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC`](https://subnets.avax.network/beam/address/0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC) |
 
 ### Beam Thirdweb Contracts
 
