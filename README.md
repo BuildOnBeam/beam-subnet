@@ -53,6 +53,15 @@
 | Beam Ethereum ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
 | LayerZero Proxy OFT | [`0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9`](https://etherscan.io/address/0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9) |
 
+### Beam Uniswap V2 Pairs
+
+|    Pair    |                                                                                                                              Address |
+| :--------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+| USDC/WBEAM | [`0xe510c67dd0A54D06f04fd5af9094fe64Ed605EaB`](https://subnets.avax.network/beam/address/0xe510c67dd0A54D06f04fd5af9094fe64Ed605EaB) |
+| USDT/WBEAM | [`0x7063F3446223Bc4f5c37B0F9d1e12547F0358e90`](https://subnets.avax.network/beam/address/0x7063F3446223Bc4f5c37B0F9d1e12547F0358e90) |
+| AVAX/WBEAM | [`0xA53DaFAe314075C6a22f44eEb7Df792D672f89d5`](https://subnets.avax.network/beam/address/0xA53DaFAe314075C6a22f44eEb7Df792D672f89d5) |
+|  RST/WBEAM | [`0x17E545Be64350E9166B0B33a7580357C802cdBe6`](https://subnets.avax.network/beam/address/0x17E545Be64350E9166B0B33a7580357C802cdBe6) |
+
 ### Beam Contracts
 
 |           Contract |                                                                                                                              Address |
@@ -132,6 +141,14 @@
 | -------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
 | Beam Fuji Mock ERC20 |   [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
 |  LayerZero Proxy OFT | [`0xa4125191E017CdF143255371A9E056f83A839b42`](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
+
+### Beam Uniswap V2 Pairs
+
+|    Pair    |                                                                                                                              Address |
+| :--------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+| USDC/WBEAM | [`0xA9EA3e595E5b8D0fF3aa4fA3A488ee44d39E357a`](https://subnets.avax.network/beam/address/0xA9EA3e595E5b8D0fF3aa4fA3A488ee44d39E357a) |
+| USDT/WBEAM | [`0xF5C0a13a53D7216fced72Be56253b083240b27db`](https://subnets.avax.network/beam/address/0xF5C0a13a53D7216fced72Be56253b083240b27db) |
+| AVAX/WBEAM | [`0xF1D464566a5561a058ea271FB25f3Db715E9da9d`](https://subnets.avax.network/beam/address/0xF1D464566a5561a058ea271FB25f3Db715E9da9d) |
 
 ### Fuji Subnet Contracts
 
