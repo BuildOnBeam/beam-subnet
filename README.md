@@ -50,7 +50,7 @@
 
 |            Contract |                                                                                                                 Address |
 | ------------------: | ----------------------------------------------------------------------------------------------------------------------: |
-| Beam Ethereum ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://etherscan.io/token/0x949d48eca67b17269629c7194f4b727d4ef9e5d6) |
+| Beam Ethereum ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://etherscan.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE) |
 | LayerZero Proxy OFT | [`0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9`](https://etherscan.io/address/0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9) |
 
 ### Beam Uniswap V2 Pairs
