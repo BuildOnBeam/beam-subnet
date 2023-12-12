@@ -53,6 +53,14 @@
 | Beam Ethereum ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://etherscan.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE) |
 | LayerZero Proxy OFT | [`0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9`](https://etherscan.io/address/0x7Bb83CCB91aAEE77F8E9bDCdd311E83AfF6fF1F9) |
 
+### BEAM Token on Avalanche C-Chain
+
+(bridged via LayerZero)
+
+|            Contract |                                                                                                                 Address |
+| ------------------: | ----------------------------------------------------------------------------------------------------------------------: |
+| Beam Avalanche C-Chain ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://43114.snowtrace.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE) |
+
 ### Beam Uniswap V2 Pairs
 
 |    Pair    |                                                                                                                              Address |
