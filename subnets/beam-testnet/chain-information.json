@@ -8,7 +8,7 @@
   "vmName": "EVM",
   "subnetExplorerUriId": "beam",
   "explorerUrl": "https://subnets-test.avax.network/beam/",
-  "rpcUrl": "https://rpc.connectednft.art:9650/ext/bc/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/rpc",
+  "rpcUrl": "https://build.onbeam.com/rpc/testnet",
   "wsUrl": "",
   "isTestnet": true,
   "networkToken": {
