@@ -94,6 +94,7 @@
 |                             ConduitController | [`0x00000000F9490004C11Cef243f5400493c00Ad63`](https://subnets.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
 |                                   Seaport 1.4 | [`0x00000000000001ad428e4906aE43D8F9852d0dD6`](https://subnets.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
 |                                   Seaport 1.5 | [`0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC`](https://subnets.avax.network/beam/address/0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC) |
+|                    Reservoir SeaportV15Module | [`0x7c5ff94e87a2a2a343d0ef40c820384fbc60d0d1`](https://subnets.avax.network/beam/address/0x7c5ff94e87a2a2a343d0ef40c820384fbc60d0d1) |
 
 ### Beam Thirdweb Contracts
 
