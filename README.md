@@ -98,7 +98,9 @@
 
 ### Beam Safe Contracts
 
-|               v1.3.0 Contracts |                                                                                                                              Address |
+#### Safe v1.3.0
+
+|                      Contracts |                                                                                                                              Address |
 | :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
 |         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
 | Compatibility Fallback Handler | [`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://subnets.avax.network/beam/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4) |
@@ -111,7 +113,8 @@
 |               Sign Message Lib | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
 |           Simulate Tx Accessor | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
 
-|               v1.4.1 Contracts |                                                                                                                              Address |
+#### Safe v1.4.1
+|                      Contracts |                                                                                                                              Address |
 | :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
 |         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
 | Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
