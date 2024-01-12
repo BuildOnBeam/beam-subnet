@@ -96,6 +96,34 @@
 |                                   Seaport 1.5 | [`0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC`](https://subnets.avax.network/beam/address/0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC) |
 |                    Reservoir SeaportV15Module | [`0x7c5ff94e87a2a2a343d0ef40c820384fbc60d0d1`](https://subnets.avax.network/beam/address/0x7c5ff94e87a2a2a343d0ef40c820384fbc60d0d1) |
 
+### Beam Safe Contracts
+
+|               v1.3.0 Contracts |                                                                                                                              Address |
+| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Compatibility Fallback Handler | [`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://subnets.avax.network/beam/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4) |
+|                    Create Call | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
+|                    Gnosis Safe | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
+|                 Gnosis Safe L2 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
+|                     Multi Send | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
+|           Multi Send Call Only | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
+|                  Proxy Factory | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
+|               Sign Message Lib | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
+|           Simulate Tx Accessor | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
+
+|               v1.4.1 Contracts |                                                                                                                              Address |
+| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
+|                    Create Call | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
+|                     Multi Send | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
+|           Multi Send Call Only | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
+|                           Safe | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
+|                        Safe L2 | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
+|             Safe Proxy Factory | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
+|               Sign Message Lib | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
+|           Simulate Tx Accessor | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
+
 ### Beam Thirdweb Contracts
 
 |                Contract | Address |                       Description |
@@ -151,7 +179,7 @@
 | Beam Fuji Mock ERC20 |   [`0x955723e26bd1b2165391BCaf39A92f77b30FFe01`](https://testnet.snowtrace.io/token/0x955723e26bd1b2165391BCaf39A92f77b30FFe01) |
 |  LayerZero Proxy OFT | [`0xa4125191E017CdF143255371A9E056f83A839b42`](https://testnet.snowtrace.io/address/0xa4125191E017CdF143255371A9E056f83A839b42) |
 
-### Beam Uniswap V2 Pairs
+### Fuji Uniswap V2 Pairs
 
 |    Pair    |                                                                                                                              Address |
 | :--------- | -----------------------------------------------------------------------------------------------------------------------------------: |
@@ -183,6 +211,34 @@
 |                             ConduitController | [`0x00000000F9490004C11Cef243f5400493c00Ad63`](https://subnets-test.avax.network/beam/address/0x00000000F9490004C11Cef243f5400493c00Ad63) |
 |                                   Seaport 1.4 | [`0x00000000000001ad428e4906aE43D8F9852d0dD6`](https://subnets-test.avax.network/beam/address/0x00000000000001ad428e4906aE43D8F9852d0dD6) |
 |                                   Seaport 1.5 | [`0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC`](https://subnets-test.avax.network/beam/address/0x00000000000000ADc04C56Bf30aC9d3c0aAF14dC) |
+
+### Fuji Safe Contracts
+
+|               v1.3.0 Contracts |                                                                                                                              Address |
+| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Compatibility Fallback Handler | [`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://subnets.avax.network/beam/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4) |
+|                    Create Call | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
+|                    Gnosis Safe | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
+|                 Gnosis Safe L2 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
+|                     Multi Send | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
+|           Multi Send Call Only | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
+|                  Proxy Factory | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
+|               Sign Message Lib | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
+|           Simulate Tx Accessor | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
+
+|               v1.4.1 Contracts |                                                                                                                              Address |
+| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
+|                    Create Call | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
+|                     Multi Send | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
+|           Multi Send Call Only | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
+|                           Safe | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
+|                        Safe L2 | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
+|             Safe Proxy Factory | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
+|               Sign Message Lib | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
+|           Simulate Tx Accessor | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
 
 ### Fuji Subnet Thirdweb Contracts
 
