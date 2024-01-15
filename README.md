@@ -7,8 +7,8 @@
   - [Mainnet](https://subnets.avax.network/beam/)
   - [Testnet](https://subnets-test.avax.network/beam/)
 - RPC URLs:
-  - Mainnet: `https://subnets.avax.network/beam/mainnet/rpc` (chain id 4337)
-  - Testnet: `https://subnets.avax.network/beam/testnet/rpc` (chain id 13337)
+  - Mainnet: `https://build.onbeam.com/rpc` (chain id 4337)
+  - Testnet: `https://build.onbeam.com/rpc/testnet` (chain id 13337)
 - [BeamSwap DEX](https://swap.onbeam.com)
 - [LayerZero Bridge](https://bridge.onbeam.com)
 - [Testnet Faucet](https://faucet.avax.network/?subnet=beam)
@@ -27,8 +27,8 @@
 | Chain Logo    | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
 | Blockchain ID |           `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
 | Eth Chain ID  |                                                           4337 |
-| RPC URL       |                `https://subnets.avax.network/beam/mainnet/rpc` |
-| WS RPC URL    |                   `wss://subnets.avax.network/beam/mainnet/ws` |
+| RPC URL       |                                 `https://build.onbeam.com/rpc` |
+| WS RPC URL    |                                    `wss://build.onbeam.com/ws` |
 | Explorer URL  |                             https://subnets.avax.network/beam/ |
 | Description   |                                                    Beam Subnet |
 | Site          |                                         https://www.onbeam.com |
@@ -155,8 +155,8 @@
 | Chain Logo       |          [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
 | Blockchain ID    |                     `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
 | Eth Chain ID     |                                                                   13337 |
-| RPC URL          |                         `https://subnets.avax.network/beam/testnet/rpc` |
-| WS RPC URL       |                            `wss://subnets.avax.network/beam/testnet/ws` |
+| RPC URL          |                                  `https://build.onbeam.com/rpc/testnet` |
+| WS RPC URL       |                                     `wss://build.onbeam.com/ws/testnet` |
 | Explorer URL     |                                 https://subnets-test.avax.network/beam/ |
 | Description      |                                                        Beam Fuji Subnet |
 | Site             |                                                  https://www.onbeam.com |
