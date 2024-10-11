@@ -1,32 +1,38 @@
 {
-	"precompileUpgrades": [
-		{
-			"contractNativeMinterConfig": {
-				"blockTimestamp": 1692615600,
-				"adminAddresses": [
-					"0x83e234a3A01f594Da7Ac3a95b44ed38990cF79F7",
-					"0x9c4654F9B86C621E84Bc7925d9F3ab5821F73BEC",
-					"0xE684F59167B6afd37f1A0998cFE80133a352A60A",
-					"0xb7cea3709C26644E0F17792941a39e9B76A6Ff4b",
-					"0x6d97aC4591f04E0AA03C6050CbC75678404A163c"
-				]
-			}
-		},
-		{
-			"contractDeployerAllowListConfig": {
-				"blockTimestamp": 1694516400,
-				"disable": true
-			}
-		}
-	],
-	"stateUpgrades": [
-		{
-			"blockTimestamp": 1691416800,
-			"accounts": {
-				"0x4e59b44847b379578588920ca78fbf26c0b4956c": {
-					"code": "0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe03601600081602082378035828234f58015156039578182fd5b8082525050506014600cf3"
-				}
-			}
-		}
-	]
+  "precompileUpgrades": [
+    {
+      "contractNativeMinterConfig": {
+        "blockTimestamp": 1692615600,
+        "adminAddresses": [
+          "0x83e234a3A01f594Da7Ac3a95b44ed38990cF79F7",
+          "0x9c4654F9B86C621E84Bc7925d9F3ab5821F73BEC",
+          "0xE684F59167B6afd37f1A0998cFE80133a352A60A",
+          "0xb7cea3709C26644E0F17792941a39e9B76A6Ff4b",
+          "0x6d97aC4591f04E0AA03C6050CbC75678404A163c"
+        ]
+      }
+    },
+    {
+      "contractDeployerAllowListConfig": {
+        "blockTimestamp": 1694516400,
+        "disable": true
+      }
+    },
+    {
+      "warpConfig": {
+        "blockTimestamp": 1729807200,
+        "quorumNumerator": 67
+      }
+    }
+  ],
+  "stateUpgrades": [
+    {
+      "blockTimestamp": 1691416800,
+      "accounts": {
+        "0x4e59b44847b379578588920ca78fbf26c0b4956c": {
+          "code": "0x7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffe03601600081602082378035828234f58015156039578182fd5b8082525050506014600cf3"
+        }
+      }
+    }
+  ]
 }

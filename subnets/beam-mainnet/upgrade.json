@@ -33,6 +33,12 @@
         "blockTimestamp": 1698775200,
         "disable": true
       }
+    },
+    {
+      "warpConfig": {
+        "blockTimestamp": 1729807200,
+        "quorumNumerator": 67
+      }
     }
   ]
 }
