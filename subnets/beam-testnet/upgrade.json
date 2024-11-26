@@ -1,4 +1,7 @@
 {
+  "networkUpgradeOverrides": {
+    "etnaTimestamp": 1732586400
+  },
   "precompileUpgrades": [
     {
       "contractNativeMinterConfig": {
