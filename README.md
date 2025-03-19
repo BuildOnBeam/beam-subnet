@@ -279,7 +279,7 @@
 
 #### Mainnet:
 
-- [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
+- [Import the subnet](https://build.avax.network/docs/tooling/create-avalanche-l1) into Avalanche CLI
   - `avalanche subnet import ./subnets/beam-mainnet/export.json`
 - [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
   - `avalanche subnet join beam`
