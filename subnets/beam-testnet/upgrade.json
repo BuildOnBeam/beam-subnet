@@ -26,6 +26,19 @@
         "blockTimestamp": 1729807200,
         "quorumNumerator": 67
       }
+    },
+    {
+      "warpConfig": {
+        "blockTimestamp": 1743778800,
+        "disable": true
+      }
+    },
+    {
+      "warpConfig": {
+        "blockTimestamp": 1743778804,
+        "quorumNumerator": 67,
+        "requirePrimaryNetworkSigners": true
+      }
     }
   ],
   "stateUpgrades": [
