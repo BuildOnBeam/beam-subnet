@@ -153,16 +153,21 @@
   },
   {
     "type": "function",
+    "name": "getEpoch",
+    "inputs": [],
+    "outputs": [{ "name": "", "type": "uint64", "internalType": "uint64" }],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
     "name": "getRewards",
     "inputs": [
       { "name": "primary", "type": "bool", "internalType": "bool" },
       { "name": "epoch", "type": "uint64", "internalType": "uint64" },
-      { "name": "tokens", "type": "address[]", "internalType": "address[]" },
+      { "name": "token", "type": "address", "internalType": "address" },
       { "name": "account", "type": "address", "internalType": "address" }
     ],
-    "outputs": [
-      { "name": "", "type": "uint256[]", "internalType": "uint256[]" }
-    ],
+    "outputs": [{ "name": "", "type": "uint256", "internalType": "uint256" }],
     "stateMutability": "view"
   },
   {
