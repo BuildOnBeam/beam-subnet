@@ -14,49 +14,91 @@
     "type": "function",
     "name": "BIPS_CONVERSION_FACTOR",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "uint16", "internalType": "uint16" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint16",
+        "internalType": "uint16"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "ERC721_STAKING_MANAGER_STORAGE_LOCATION",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "MAXIMUM_DELEGATION_FEE_BIPS",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "uint16", "internalType": "uint16" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint16",
+        "internalType": "uint16"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "P_CHAIN_BLOCKCHAIN_ID",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "REWARD_CLAIM_DELAY",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "uint64", "internalType": "uint64" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "STAKING_MANAGER_STORAGE_LOCATION",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "UPTIME_REWARDS_THRESHOLD_PERCENTAGE",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "uint8", "internalType": "uint8" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint8",
+        "internalType": "uint8"
+      }
+    ],
     "stateMutability": "view"
   },
   {
@@ -76,9 +118,21 @@
     "type": "function",
     "name": "cancelRewards",
     "inputs": [
-      { "name": "primary", "type": "bool", "internalType": "bool" },
-      { "name": "epoch", "type": "uint64", "internalType": "uint64" },
-      { "name": "token", "type": "address", "internalType": "address" }
+      {
+        "name": "primary",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "epoch",
+        "type": "uint64",
+        "internalType": "uint64"
+      },
+      {
+        "name": "token",
+        "type": "address",
+        "internalType": "address"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -87,10 +141,26 @@
     "type": "function",
     "name": "claimRewards",
     "inputs": [
-      { "name": "primary", "type": "bool", "internalType": "bool" },
-      { "name": "epoch", "type": "uint64", "internalType": "uint64" },
-      { "name": "tokens", "type": "address[]", "internalType": "address[]" },
-      { "name": "recipient", "type": "address", "internalType": "address" }
+      {
+        "name": "primary",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "epoch",
+        "type": "uint64",
+        "internalType": "uint64"
+      },
+      {
+        "name": "tokens",
+        "type": "address[]",
+        "internalType": "address[]"
+      },
+      {
+        "name": "recipient",
+        "type": "address",
+        "internalType": "address"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -99,8 +169,16 @@
     "type": "function",
     "name": "completeDelegatorRegistration",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -109,8 +187,16 @@
     "type": "function",
     "name": "completeDelegatorRemoval",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -119,7 +205,11 @@
     "type": "function",
     "name": "completeNFTDelegatorRemoval",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -128,18 +218,38 @@
     "type": "function",
     "name": "completeValidatorRegistration",
     "inputs": [
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "nonpayable"
   },
   {
     "type": "function",
     "name": "completeValidatorRemoval",
     "inputs": [
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "nonpayable"
   },
   {
@@ -147,7 +257,11 @@
     "name": "erc721",
     "inputs": [],
     "outputs": [
-      { "name": "", "type": "address", "internalType": "contract IERC721" }
+      {
+        "name": "",
+        "type": "address",
+        "internalType": "contract IERC721"
+      }
     ],
     "stateMutability": "view"
   },
@@ -155,19 +269,47 @@
     "type": "function",
     "name": "getEpoch",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "uint64", "internalType": "uint64" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "getRewards",
     "inputs": [
-      { "name": "primary", "type": "bool", "internalType": "bool" },
-      { "name": "epoch", "type": "uint64", "internalType": "uint64" },
-      { "name": "token", "type": "address", "internalType": "address" },
-      { "name": "account", "type": "address", "internalType": "address" }
+      {
+        "name": "primary",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "epoch",
+        "type": "uint64",
+        "internalType": "uint64"
+      },
+      {
+        "name": "token",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "account",
+        "type": "address",
+        "internalType": "address"
+      }
     ],
-    "outputs": [{ "name": "", "type": "uint256", "internalType": "uint256" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
+    ],
     "stateMutability": "view"
   },
   {
@@ -219,7 +361,11 @@
             "type": "uint256",
             "internalType": "uint256"
           },
-          { "name": "admin", "type": "address", "internalType": "address" },
+          {
+            "name": "admin",
+            "type": "address",
+            "internalType": "address"
+          },
           {
             "name": "uptimeBlockchainID",
             "type": "bytes32",
@@ -240,7 +386,11 @@
             "type": "address",
             "internalType": "address"
           },
-          { "name": "epochOffset", "type": "uint64", "internalType": "uint64" }
+          {
+            "name": "epochOffset",
+            "type": "uint64",
+            "internalType": "uint64"
+          }
         ]
       },
       {
@@ -256,18 +406,40 @@
     "type": "function",
     "name": "initiateDelegatorRegistration",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "payable"
   },
   {
     "type": "function",
     "name": "initiateDelegatorRemoval",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "includeUptimeProof", "type": "bool", "internalType": "bool" },
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "includeUptimeProof",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -276,7 +448,11 @@
     "type": "function",
     "name": "initiateNFTDelegatorRemoval",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -285,18 +461,40 @@
     "type": "function",
     "name": "initiateRedelegation",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "nonpayable"
   },
   {
     "type": "function",
     "name": "initiateValidatorRegistration",
     "inputs": [
-      { "name": "nodeID", "type": "bytes", "internalType": "bytes" },
-      { "name": "blsPublicKey", "type": "bytes", "internalType": "bytes" },
+      {
+        "name": "nodeID",
+        "type": "bytes",
+        "internalType": "bytes"
+      },
+      {
+        "name": "blsPublicKey",
+        "type": "bytes",
+        "internalType": "bytes"
+      },
       {
         "name": "registrationExpiry",
         "type": "uint64",
@@ -307,7 +505,11 @@
         "type": "tuple",
         "internalType": "struct PChainOwner",
         "components": [
-          { "name": "threshold", "type": "uint32", "internalType": "uint32" },
+          {
+            "name": "threshold",
+            "type": "uint32",
+            "internalType": "uint32"
+          },
           {
             "name": "addresses",
             "type": "address[]",
@@ -320,7 +522,11 @@
         "type": "tuple",
         "internalType": "struct PChainOwner",
         "components": [
-          { "name": "threshold", "type": "uint32", "internalType": "uint32" },
+          {
+            "name": "threshold",
+            "type": "uint32",
+            "internalType": "uint32"
+          },
           {
             "name": "addresses",
             "type": "address[]",
@@ -338,18 +544,40 @@
         "type": "uint64",
         "internalType": "uint64"
       },
-      { "name": "tokenIDs", "type": "uint256[]", "internalType": "uint256[]" }
+      {
+        "name": "tokenIDs",
+        "type": "uint256[]",
+        "internalType": "uint256[]"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "payable"
   },
   {
     "type": "function",
     "name": "initiateValidatorRemoval",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "includeUptimeProof", "type": "bool", "internalType": "bool" },
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "includeUptimeProof",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -358,36 +586,123 @@
     "type": "function",
     "name": "onERC721Received",
     "inputs": [
-      { "name": "", "type": "address", "internalType": "address" },
-      { "name": "", "type": "address", "internalType": "address" },
-      { "name": "", "type": "uint256", "internalType": "uint256" },
-      { "name": "", "type": "bytes", "internalType": "bytes" }
+      {
+        "name": "",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "",
+        "type": "uint256",
+        "internalType": "uint256"
+      },
+      {
+        "name": "",
+        "type": "bytes",
+        "internalType": "bytes"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes4", "internalType": "bytes4" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes4",
+        "internalType": "bytes4"
+      }
+    ],
     "stateMutability": "nonpayable"
   },
   {
     "type": "function",
     "name": "owner",
     "inputs": [],
-    "outputs": [{ "name": "", "type": "address", "internalType": "address" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "address",
+        "internalType": "address"
+      }
+    ],
     "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "recoverERC20",
+    "inputs": [
+      {
+        "name": "token",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "to",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "amount",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
+    "name": "recoverValidatorWeight",
+    "inputs": [
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "newWeight",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
+    ],
+    "outputs": [],
+    "stateMutability": "nonpayable"
   },
   {
     "type": "function",
     "name": "registerNFTDelegation",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "tokenIDs", "type": "uint256[]", "internalType": "uint256[]" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "tokenIDs",
+        "type": "uint256[]",
+        "internalType": "uint256[]"
+      }
     ],
-    "outputs": [{ "name": "", "type": "bytes32", "internalType": "bytes32" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
+    ],
     "stateMutability": "nonpayable"
   },
   {
     "type": "function",
     "name": "registerNFTRedelegation",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" },
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
       {
         "name": "nextValidationID",
         "type": "bytes32",
@@ -401,10 +716,26 @@
     "type": "function",
     "name": "registerRewards",
     "inputs": [
-      { "name": "primary", "type": "bool", "internalType": "bool" },
-      { "name": "epoch", "type": "uint64", "internalType": "uint64" },
-      { "name": "token", "type": "address", "internalType": "address" },
-      { "name": "amount", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "primary",
+        "type": "bool",
+        "internalType": "bool"
+      },
+      {
+        "name": "epoch",
+        "type": "uint64",
+        "internalType": "uint64"
+      },
+      {
+        "name": "token",
+        "type": "address",
+        "internalType": "address"
+      },
+      {
+        "name": "amount",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -420,7 +751,11 @@
     "type": "function",
     "name": "resendUpdateDelegator",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -442,8 +777,16 @@
     "type": "function",
     "name": "submitUptimeProof",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" },
-      { "name": "messageIndex", "type": "uint32", "internalType": "uint32" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
+      {
+        "name": "messageIndex",
+        "type": "uint32",
+        "internalType": "uint32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -470,7 +813,11 @@
     "type": "function",
     "name": "transferOwnership",
     "inputs": [
-      { "name": "newOwner", "type": "address", "internalType": "address" }
+      {
+        "name": "newOwner",
+        "type": "address",
+        "internalType": "address"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -479,7 +826,11 @@
     "type": "function",
     "name": "unlockDelegator",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -488,7 +839,11 @@
     "type": "function",
     "name": "unlockValidator",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ],
     "outputs": [],
     "stateMutability": "nonpayable"
@@ -497,18 +852,38 @@
     "type": "function",
     "name": "valueToWeight",
     "inputs": [
-      { "name": "value", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "value",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ],
-    "outputs": [{ "name": "", "type": "uint64", "internalType": "uint64" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
+    ],
     "stateMutability": "view"
   },
   {
     "type": "function",
     "name": "weightToValue",
     "inputs": [
-      { "name": "weight", "type": "uint64", "internalType": "uint64" }
+      {
+        "name": "weight",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
     ],
-    "outputs": [{ "name": "", "type": "uint256", "internalType": "uint256" }],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
+    ],
     "stateMutability": "view"
   },
   {
@@ -853,10 +1228,18 @@
     "type": "error",
     "name": "AddressInsufficientBalance",
     "inputs": [
-      { "name": "account", "type": "address", "internalType": "address" }
+      {
+        "name": "account",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
-  { "type": "error", "name": "FailedInnerCall", "inputs": [] },
+  {
+    "type": "error",
+    "name": "FailedInnerCall",
+    "inputs": []
+  },
   {
     "type": "error",
     "name": "InvalidDelegationFee",
@@ -872,7 +1255,11 @@
     "type": "error",
     "name": "InvalidDelegationID",
     "inputs": [
-      { "name": "delegationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "delegationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ]
   },
   {
@@ -886,46 +1273,90 @@
       }
     ]
   },
-  { "type": "error", "name": "InvalidInitialization", "inputs": [] },
+  {
+    "type": "error",
+    "name": "InvalidInitialization",
+    "inputs": []
+  },
   {
     "type": "error",
     "name": "InvalidInputLengths",
     "inputs": [
-      { "name": "inputLength1", "type": "uint256", "internalType": "uint256" },
-      { "name": "inputLength2", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "inputLength1",
+        "type": "uint256",
+        "internalType": "uint256"
+      },
+      {
+        "name": "inputLength2",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ]
+  },
+  {
+    "type": "error",
+    "name": "InvalidMethodForNFTDelegation",
+    "inputs": []
+  },
+  {
+    "type": "error",
+    "name": "InvalidMethodForNativeDelegation",
+    "inputs": []
   },
   {
     "type": "error",
     "name": "InvalidMinStakeDuration",
     "inputs": [
-      { "name": "minStakeDuration", "type": "uint64", "internalType": "uint64" }
+      {
+        "name": "minStakeDuration",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
     ]
   },
   {
     "type": "error",
     "name": "InvalidNFTAmount",
     "inputs": [
-      { "name": "nftAmount", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "nftAmount",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ]
   },
   {
     "type": "error",
     "name": "InvalidNonce",
-    "inputs": [{ "name": "nonce", "type": "uint64", "internalType": "uint64" }]
+    "inputs": [
+      {
+        "name": "nonce",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
+    ]
   },
   {
     "type": "error",
     "name": "InvalidStakeAmount",
     "inputs": [
-      { "name": "stakeAmount", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "stakeAmount",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ]
   },
   {
     "type": "error",
     "name": "InvalidTokenAddress",
     "inputs": [
-      { "name": "tokenAddress", "type": "address", "internalType": "address" }
+      {
+        "name": "tokenAddress",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
   {
@@ -950,19 +1381,31 @@
       }
     ]
   },
-  { "type": "error", "name": "InvalidWarpMessage", "inputs": [] },
+  {
+    "type": "error",
+    "name": "InvalidWarpMessage",
+    "inputs": []
+  },
   {
     "type": "error",
     "name": "InvalidWarpOriginSenderAddress",
     "inputs": [
-      { "name": "senderAddress", "type": "address", "internalType": "address" }
+      {
+        "name": "senderAddress",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
   {
     "type": "error",
     "name": "InvalidWarpSourceChainID",
     "inputs": [
-      { "name": "sourceChainID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "sourceChainID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ]
   },
   {
@@ -980,53 +1423,97 @@
     "type": "error",
     "name": "MinStakeDurationNotPassed",
     "inputs": [
-      { "name": "endTime", "type": "uint64", "internalType": "uint64" }
+      {
+        "name": "endTime",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
     ]
   },
-  { "type": "error", "name": "NotInitializing", "inputs": [] },
+  {
+    "type": "error",
+    "name": "NotInitializing",
+    "inputs": []
+  },
   {
     "type": "error",
     "name": "OwnableInvalidOwner",
     "inputs": [
-      { "name": "owner", "type": "address", "internalType": "address" }
+      {
+        "name": "owner",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
   {
     "type": "error",
     "name": "OwnableUnauthorizedAccount",
     "inputs": [
-      { "name": "account", "type": "address", "internalType": "address" }
+      {
+        "name": "account",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
-  { "type": "error", "name": "ReentrancyGuardReentrantCall", "inputs": [] },
+  {
+    "type": "error",
+    "name": "ReentrancyGuardReentrantCall",
+    "inputs": []
+  },
   {
     "type": "error",
     "name": "TooEarly",
     "inputs": [
-      { "name": "actualTime", "type": "uint256", "internalType": "uint256" },
-      { "name": "expectedTime", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "actualTime",
+        "type": "uint256",
+        "internalType": "uint256"
+      },
+      {
+        "name": "expectedTime",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ]
   },
   {
     "type": "error",
     "name": "TooLate",
     "inputs": [
-      { "name": "actualTime", "type": "uint256", "internalType": "uint256" },
-      { "name": "expectedTime", "type": "uint256", "internalType": "uint256" }
+      {
+        "name": "actualTime",
+        "type": "uint256",
+        "internalType": "uint256"
+      },
+      {
+        "name": "expectedTime",
+        "type": "uint256",
+        "internalType": "uint256"
+      }
     ]
   },
   {
     "type": "error",
     "name": "UnauthorizedOwner",
     "inputs": [
-      { "name": "sender", "type": "address", "internalType": "address" }
+      {
+        "name": "sender",
+        "type": "address",
+        "internalType": "address"
+      }
     ]
   },
   {
     "type": "error",
     "name": "UnexpectedValidationID",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" },
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      },
       {
         "name": "expectedValidationID",
         "type": "bytes32",
@@ -1038,15 +1525,27 @@
     "type": "error",
     "name": "UnlockDurationNotPassed",
     "inputs": [
-      { "name": "endTime", "type": "uint64", "internalType": "uint64" }
+      {
+        "name": "endTime",
+        "type": "uint64",
+        "internalType": "uint64"
+      }
     ]
   },
   {
     "type": "error",
     "name": "ValidatorNotPoS",
     "inputs": [
-      { "name": "validationID", "type": "bytes32", "internalType": "bytes32" }
+      {
+        "name": "validationID",
+        "type": "bytes32",
+        "internalType": "bytes32"
+      }
     ]
   },
-  { "type": "error", "name": "ZeroWeightToValueFactor", "inputs": [] }
+  {
+    "type": "error",
+    "name": "ZeroWeightToValueFactor",
+    "inputs": []
+  }
 ]
