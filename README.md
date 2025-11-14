@@ -1,6 +1,6 @@
-# Beam Subnet
+# Beam L1
 
-- Subnet Overview
+- L1 Overview
   - [Mainnet](https://subnets.avax.network/subnets/eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC)
   - [Testnet](https://subnets-test.avax.network/subnets/ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW)
 - Block Explorers
@@ -9,37 +9,37 @@
 - RPC URLs:
   - Mainnet: `https://build.onbeam.com/rpc` (chain id 4337)
   - Testnet: `https://build.onbeam.com/rpc/testnet` (chain id 13337)
-- [BeamSwap DEX](https://swap.onbeam.com)
-- [LayerZero Bridge](https://bridge.onbeam.com)
+- [BeamSwap DEX](https://app.onbeam.com/swap)
+- [LayerZero Bridge](https://app.onbeam.com/bridge)
 - [Testnet Faucet](https://faucet.avax.network/?subnet=beam)
 
 ## Mainnet
 
-### Beam Subnet Info
+### Beam L1 Info
 
-| Beam Subnet   |                                                                |
-| :------------ | -------------------------------------------------------------: |
-| Subnet Name   |                                                           Beam |
-| Subnet Logo   |         ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
-| Subnet ID     |            `eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC` |
-| VM ID         |            `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
-| Chain Name    |                                                   Beam Mainnet |
-| Chain Logo    | [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
-| Blockchain ID |           `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
-| Eth Chain ID  |                                                           4337 |
-| RPC URL       |                                 `https://build.onbeam.com/rpc` |
-| WS RPC URL    |                                    `wss://build.onbeam.com/ws` |
-| Explorer URL  |                             https://subnets.avax.network/beam/ |
-| Description   |                                                    Beam Subnet |
-| Site          |                                         https://www.onbeam.com |
+| Beam L1       |                                                             |
+| :------------ | ----------------------------------------------------------: |
+| L1 Name       |                                                        Beam |
+| L1 Logo       | ![Beam Logo](https://media.onbeam.com/beam-lockup-dark.svg) |
+| L1 ID         |         `eYwmVU67LmSfZb1RwqCMhBYkFyG8ftxn6jAwqzFmxC9STBWLC` |
+| VM ID         |         `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
+| Chain Name    |                                                Beam Mainnet |
+| Chain Logo    |  [Beam Logo](https://media.onbeam.com/beam-lockup-dark.svg) |
+| Blockchain ID |        `2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn` |
+| Eth Chain ID  |                                                        4337 |
+| RPC URL       |                              `https://build.onbeam.com/rpc` |
+| WS RPC URL    |                                 `wss://build.onbeam.com/ws` |
+| Explorer URL  |                          https://subnets.avax.network/beam/ |
+| Description   |                                                     Beam L1 |
+| Site          |                                          https://onbeam.com |
 
 ### Beam ERC-20 Tokens
 
 | Symbol |                                                                                                                            Address | Decimals |                                                  Logo                                                   |             Description |
 | -----: | ---------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ----------------------: |
-|   BEAM |                                                                                                                                    |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |       Beam native token |
-|  WBEAM | [`0xD51BFa777609213A653a2CD067c9A0132a2D316A`](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |            Wrapped Beam |
-| LZBEAM | [`0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821`](https://subnets.avax.network/beam/token/0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          | LayerZero Beam (Bridge) |
+|   BEAM |                                                                                                                                    |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           |       Beam native token |
+|  WBEAM | [`0xD51BFa777609213A653a2CD067c9A0132a2D316A`](https://subnets.avax.network/beam/token/0xD51BFa777609213A653a2CD067c9A0132a2D316A) |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           |            Wrapped Beam |
+| LZBEAM | [`0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821`](https://subnets.avax.network/beam/token/0xF5759Ef6D0E0003cFdF80aD3c9a628fc8736c821) |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           | LayerZero Beam (Bridge) |
 |   USDC | [`0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304`](https://subnets.avax.network/beam/token/0x76BF5E7d2Bcb06b1444C0a2742780051D8D0E304) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |                USD Coin |
 |   USDT | [`0x999f90f25a2922ae1b21A06066F7EDEbedad42a9`](https://subnets.avax.network/beam/token/0x999f90f25a2922ae1b21A06066F7EDEbedad42a9) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |              Tether USD |
 |   AVAX | [`0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34`](https://subnets.avax.network/beam/token/0x00E69e0b6014d77040b28E04F2b8ac25A6EA5d34) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |               Avalanche |
@@ -57,18 +57,18 @@
 
 (bridged via LayerZero)
 
-|            Contract |                                                                                                                 Address |
-| ------------------: | ----------------------------------------------------------------------------------------------------------------------: |
-| Beam Avalanche C-Chain ERC20 |   [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://43114.snowtrace.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE) |
+|                     Contract |                                                                                                                     Address |
+| ---------------------------: | --------------------------------------------------------------------------------------------------------------------------: |
+| Beam Avalanche C-Chain ERC20 | [`0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE`](https://43114.snowtrace.io/token/0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE) |
 
 ### Beam Uniswap V2 Pairs
 
-|    Pair    |                                                                                                                              Address |
+| Pair       |                                                                                                                              Address |
 | :--------- | -----------------------------------------------------------------------------------------------------------------------------------: |
 | USDC/WBEAM | [`0xe510c67dd0A54D06f04fd5af9094fe64Ed605EaB`](https://subnets.avax.network/beam/address/0xe510c67dd0A54D06f04fd5af9094fe64Ed605EaB) |
 | USDT/WBEAM | [`0x7063F3446223Bc4f5c37B0F9d1e12547F0358e90`](https://subnets.avax.network/beam/address/0x7063F3446223Bc4f5c37B0F9d1e12547F0358e90) |
 | AVAX/WBEAM | [`0xA53DaFAe314075C6a22f44eEb7Df792D672f89d5`](https://subnets.avax.network/beam/address/0xA53DaFAe314075C6a22f44eEb7Df792D672f89d5) |
-|  RST/WBEAM | [`0x17E545Be64350E9166B0B33a7580357C802cdBe6`](https://subnets.avax.network/beam/address/0x17E545Be64350E9166B0B33a7580357C802cdBe6) |
+| RST/WBEAM  | [`0x17E545Be64350E9166B0B33a7580357C802cdBe6`](https://subnets.avax.network/beam/address/0x17E545Be64350E9166B0B33a7580357C802cdBe6) |
 
 ### Beam Contracts
 
@@ -100,32 +100,33 @@
 
 #### Safe v1.3.0
 
-|                      Contracts |                                                                                                                              Address |
+| Contracts                      |                                                                                                                              Address |
 | :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
-|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Safe Singleton Factory         | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
 | Compatibility Fallback Handler | [`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://subnets.avax.network/beam/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4) |
-|                    Create Call | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
-|                    Gnosis Safe | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
-|                 Gnosis Safe L2 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
-|                     Multi Send | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-|           Multi Send Call Only | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
-|                  Proxy Factory | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
-|               Sign Message Lib | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
-|           Simulate Tx Accessor | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
+| Create Call                    | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
+| Gnosis Safe                    | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
+| Gnosis Safe L2                 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
+| Multi Send                     | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
+| Multi Send Call Only           | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
+| Proxy Factory                  | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
+| Sign Message Lib               | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
+| Simulate Tx Accessor           | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
 
 #### Safe v1.4.1
-|                      Contracts |                                                                                                                              Address |
+
+| Contracts                      |                                                                                                                              Address |
 | :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
-|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Safe Singleton Factory         | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
 | Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
-|                    Create Call | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
-|                     Multi Send | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
-|           Multi Send Call Only | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
-|                           Safe | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
-|                        Safe L2 | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
-|             Safe Proxy Factory | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
-|               Sign Message Lib | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
-|           Simulate Tx Accessor | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
+| Create Call                    | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
+| Multi Send                     | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
+| Multi Send Call Only           | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
+| Safe                           | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
+| Safe L2                        | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
+| Safe Proxy Factory             | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
+| Sign Message Lib               | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
+| Simulate Tx Accessor           | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
 
 ### Beam Thirdweb Contracts
 
@@ -143,32 +144,32 @@
 
 ## Fuji Testnet
 
-### Fuji Subnet Info
+### Fuji L1 Info
 
-| Beam Fuji Subnet |                                                                         |
-| :--------------- | ----------------------------------------------------------------------: |
-| Subnet Name      |                                                            Beam Testnet |
-| Subnet Logo      |                  ![Beam Logo](https://www.onbeam.com/favicon-32x32.png) |
-| Subnet ID        |                     `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
-| VM ID            |                     `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
-| Chain Name       |                                                            Beam Testnet |
-| Chain Logo       |          [Beam Logo](https://www.onbeam.com/android-chrome-512x512.png) |
-| Blockchain ID    |                     `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
-| Eth Chain ID     |                                                                   13337 |
-| RPC URL          |                                  `https://build.onbeam.com/rpc/testnet` |
-| WS RPC URL       |                                     `wss://build.onbeam.com/ws/testnet` |
-| Explorer URL     |                                 https://subnets-test.avax.network/beam/ |
-| Description      |                                                        Beam Fuji Subnet |
-| Site             |                                                  https://www.onbeam.com |
-| Faucet URL       | [https://faucet.avax.network](https://faucet.avax.network/?subnet=beam) |
+| Beam Fuji L1  |                                                                         |
+| :------------ | ----------------------------------------------------------------------: |
+| L1 Name       |                                                            Beam Testnet |
+| L1 Logo       |             ![Beam Logo](https://media.onbeam.com/beam-lockup-dark.svg) |
+| L1 ID         |                     `ie1wUBR2bQDPkGCRf2CBVzmP55eSiyJsFYqeGXnTYt2r33aKW` |
+| VM ID         |                     `kLPs8zGsTVZ28DhP1VefPCFbCgS7o5bDNez8JUxPVw9E6Ubbz` |
+| Chain Name    |                                                            Beam Testnet |
+| Chain Logo    |              [Beam Logo](https://media.onbeam.com/beam-lockup-dark.svg) |
+| Blockchain ID |                     `y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t` |
+| Eth Chain ID  |                                                                   13337 |
+| RPC URL       |                                  `https://build.onbeam.com/rpc/testnet` |
+| WS RPC URL    |                                     `wss://build.onbeam.com/ws/testnet` |
+| Explorer URL  |                                 https://subnets-test.avax.network/beam/ |
+| Description   |                                                            Beam Fuji L1 |
+| Site          |                                                      https://onbeam.com |
+| Faucet URL    | [https://faucet.avax.network](https://faucet.avax.network/?subnet=beam) |
 
-### Fuji Subnet ERC-20 Tokens
+### Fuji L1 ERC-20 Tokens
 
 | Symbol |                                                                                                                                 Address | Decimals |                                                  Logo                                                   |             Description |
 | -----: | --------------------------------------------------------------------------------------------------------------------------------------: | -------: | :-----------------------------------------------------------------------------------------------------: | ----------------------: |
-|   BEAM |                                                                                                                                         |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |  Beam mock native token |
-|  WBEAM | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          |       Mock Wrapped Beam |
-| LZBEAM | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 |          ![BEAM logo](https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png)          | LayerZero Beam (Bridge) |
+|   BEAM |                                                                                                                                         |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           |  Beam mock native token |
+|  WBEAM | [`0xF65B6f9c94187276C7d91F4F74134751d248bFeA`](https://subnets-test.avax.network/beam/token/0xF65B6f9c94187276C7d91F4F74134751d248bFeA) |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           |       Mock Wrapped Beam |
+| LZBEAM | [`0x3438271Fd753b8b217447Bf7B18249347B282CCD`](https://subnets-test.avax.network/beam/token/0x3438271Fd753b8b217447Bf7B18249347B282CCD) |       18 |                          ![BEAM logo](https://media.onbeam.com/beam-logo.svg)                           | LayerZero Beam (Bridge) |
 |   USDC | [`0x007Fdc86FD12924C9116025C7F594843087397E3`](https://subnets-test.avax.network/beam/token/0x007Fdc86FD12924C9116025C7F594843087397E3) |        6 |          ![USDC logo](https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png)           |                USD Coin |
 |   USDT | [`0x29633Cf4FF2D98347895C7327f83Ab4cd592C808`](https://subnets-test.avax.network/beam/token/0x29633Cf4FF2D98347895C7327f83Ab4cd592C808) |        6 |              ![USDT logo](https://assets.coingecko.com/coins/images/325/small/Tether.png)               |              Tether USD |
 |   AVAX | [`0x2CC787Ed364600B0222361C4188308Fa8E68bA60`](https://subnets-test.avax.network/beam/token/0x2CC787Ed364600B0222361C4188308Fa8E68bA60) |       18 | ![AVAX logo](https://assets.coingecko.com/coins/images/12559/small/Avalanche_Circle_RedWhite_Trans.png) |               Avalanche |
@@ -184,13 +185,13 @@
 
 ### Fuji Uniswap V2 Pairs
 
-|    Pair    |                                                                                                                              Address |
+| Pair       |                                                                                                                              Address |
 | :--------- | -----------------------------------------------------------------------------------------------------------------------------------: |
 | USDC/WBEAM | [`0xA9EA3e595E5b8D0fF3aa4fA3A488ee44d39E357a`](https://subnets.avax.network/beam/address/0xA9EA3e595E5b8D0fF3aa4fA3A488ee44d39E357a) |
 | USDT/WBEAM | [`0xF5C0a13a53D7216fced72Be56253b083240b27db`](https://subnets.avax.network/beam/address/0xF5C0a13a53D7216fced72Be56253b083240b27db) |
 | AVAX/WBEAM | [`0xF1D464566a5561a058ea271FB25f3Db715E9da9d`](https://subnets.avax.network/beam/address/0xF1D464566a5561a058ea271FB25f3Db715E9da9d) |
 
-### Fuji Subnet Contracts
+### Fuji L1 Contracts
 
 |           Contract |                                                                                                                                   Address |
 | -----------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
@@ -203,7 +204,7 @@
 |     Create2Factory | [`0x4e59b44847b379578588920cA78FbF26c0B4956C`](https://subnets-test.avax.network/beam/address/0x4e59b44847b379578588920cA78FbF26c0B4956C) |
 |        Entry Point | [`0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789`](https://subnets-test.avax.network/beam/address/0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789) |
 
-### Fuji Subnet Seaport Contracts
+### Fuji L1 Seaport Contracts
 
 |                                      Contract |                                                                                                                                   Address |
 | --------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
@@ -219,34 +220,35 @@
 
 #### Safe v1.3.0
 
-|                      Contracts |                                                                                                                              Address |
+| Contracts                      |                                                                                                                              Address |
 | :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
-|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Safe Singleton Factory         | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
 | Compatibility Fallback Handler | [`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://subnets.avax.network/beam/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4) |
-|                    Create Call | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
-|                    Gnosis Safe | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
-|                 Gnosis Safe L2 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
-|                     Multi Send | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-|           Multi Send Call Only | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
-|                  Proxy Factory | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
-|               Sign Message Lib | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
-|           Simulate Tx Accessor | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
+| Create Call                    | [`0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4`](https://subnets.avax.network/beam/address/0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4) |
+| Gnosis Safe                    | [`0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552`](https://subnets.avax.network/beam/address/0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552) |
+| Gnosis Safe L2                 | [`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://subnets.avax.network/beam/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E) |
+| Multi Send                     | [`0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://subnets.avax.network/beam/address/0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
+| Multi Send Call Only           | [`0x40A2aCCbd92BCA938b02010E17A5b8929b49130D`](https://subnets.avax.network/beam/address/0x40A2aCCbd92BCA938b02010E17A5b8929b49130D) |
+| Proxy Factory                  | [`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://subnets.avax.network/beam/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2) |
+| Sign Message Lib               | [`0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2`](https://subnets.avax.network/beam/address/0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2) |
+| Simulate Tx Accessor           | [`0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da`](https://subnets.avax.network/beam/address/0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da) |
 
 #### Safe v1.4.1
-|                      Contracts |                                                                                                                              Address |
-| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
-|         Safe Singleton Factory | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
-| Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
-|                    Create Call | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
-|                     Multi Send | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
-|           Multi Send Call Only | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
-|                           Safe | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
-|                        Safe L2 | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
-|             Safe Proxy Factory | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
-|               Sign Message Lib | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
-|           Simulate Tx Accessor | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
 
-### Fuji Subnet Thirdweb Contracts
+| Contracts                      |                                                                                                                              Address |
+| :----------------------------- | -----------------------------------------------------------------------------------------------------------------------------------: |
+| Safe Singleton Factory         | [`0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7`](https://subnets.avax.network/beam/address/0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7) |
+| Compatibility Fallback Handler | [`0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99`](https://subnets.avax.network/beam/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99) |
+| Create Call                    | [`0x9b35Af71d77eaf8d7e40252370304687390A1A52`](https://subnets.avax.network/beam/address/0x9b35Af71d77eaf8d7e40252370304687390A1A52) |
+| Multi Send                     | [`0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526`](https://subnets.avax.network/beam/address/0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526) |
+| Multi Send Call Only           | [`0x9641d764fc13c8B624c04430C7356C1C7C8102e2`](https://subnets.avax.network/beam/address/0x9641d764fc13c8B624c04430C7356C1C7C8102e2) |
+| Safe                           | [`0x41675C099F32341bf84BFc5382aF534df5C7461a`](https://subnets.avax.network/beam/address/0x41675C099F32341bf84BFc5382aF534df5C7461a) |
+| Safe L2                        | [`0x29fcB43b46531BcA003ddC8FCB67FFE91900C762`](https://subnets.avax.network/beam/address/0x29fcB43b46531BcA003ddC8FCB67FFE91900C762) |
+| Safe Proxy Factory             | [`0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67`](https://subnets.avax.network/beam/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67) |
+| Sign Message Lib               | [`0xd53cd0aB83D845Ac265BE939c57F53AD838012c9`](https://subnets.avax.network/beam/address/0xd53cd0aB83D845Ac265BE939c57F53AD838012c9) |
+| Simulate Tx Accessor           | [`0x3d4BA2E0884aa488718476ca2FB8Efc291A46199`](https://subnets.avax.network/beam/address/0x3d4BA2E0884aa488718476ca2FB8Efc291A46199) |
+
+### Fuji L1 Thirdweb Contracts
 
 |                Contract |                                                                                                                                   Address |                       Description |
 | ----------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------: |
@@ -260,17 +262,14 @@
 
 ## Run your own node
 
-- Run an [Avalanche node](https://docs.avax.network/nodes/build/set-up-node-with-installer)
-- Install [Avalanche CLI](https://docs.avax.network/subnets/install-avalanche-cli) on it
+- Run an [Avalanche node](https://build.avax.network/docs/tooling/avalanche-cli/create-deploy-avalanche-l1s/deploy-on-production-infra#node-setup)
 
 ## Import and join a subnet
 
 #### Fuji:
 
-- [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
+- [Import the subnet](https://build.avax.network/docs/tooling/avalanche-cli/guides/import-avalanche-l1) into Avalanche CLI
   - `avalanche subnet import ./subnets/beam-testnet/export.json`
-- [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
-  - `avalanche subnet join beam`
 - Seed the network upgrade file
   - `mkdir .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t`
   - `cp ./subnets/beam-testnet/upgrade.json .avalanchego/configs/chains/y97omoP2cSyEVfdSztQHXD9EnfnVP9YKjZwAxhUfGbLAPYT9t/`
@@ -279,10 +278,8 @@
 
 #### Mainnet:
 
-- [Import the subnet](https://docs.avax.network/subnets/how-to-import-subnet) into Avalanche CLI
+- [Import the subnet](https://build.avax.network/docs/tooling/avalanche-cli/guides/import-avalanche-l1) into Avalanche CLI
   - `avalanche subnet import ./subnets/beam-mainnet/export.json`
-- [Join the subnet](https://docs.avax.network/subnets/deploying-subnets-on-prod#joining-a-subnet) with your node using Avalanche CLI
-  - `avalanche subnet join beam`
 - Seed the network upgrade file
   - `mkdir .avalanchego/configs/chains/2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn`
   - `cp ./subnets/beam-mainnet/upgrade.json .avalanchego/configs/chains/2tmrrBo1Lgt1mzzvPSFt73kkQKFas5d1AP88tv9cicwoFp8BSn/`
